@@ -9,6 +9,11 @@ urls = [
     "https://es.wikipedia.org/wiki/Liga_de_Campeones_de_la_UEFA_2019-20#Final",
     "https://es.wikipedia.org/wiki/Liga_de_Campeones_de_la_UEFA_2018-19#Final",
     "https://es.wikipedia.org/wiki/Liga_de_Campeones_de_la_UEFA_2017-18#Final"
+    "https://es.wikipedia.org/wiki/Liga_de_Campeones_de_la_UEFA_2016-17#Final",
+    "https://es.wikipedia.org/wiki/Liga_de_Campeones_de_la_UEFA_2015-16#Final",
+    "https://es.wikipedia.org/wiki/Liga_de_Campeones_de_la_UEFA_2014-15#Final",
+    "https://es.wikipedia.org/wiki/Liga_de_Campeones_de_la_UEFA_2013-14#Final",
+    "https://es.wikipedia.org/wiki/Liga_de_Campeones_de_la_UEFA_2012-13#Final"
 ]
 
 # Creamos una lista para almacenar los datos de todas las temporadas
