@@ -66,7 +66,7 @@ for url in urls:
 datos_totales[0][0] = 'Season'
 
 # Escribimos los datos en un archivo CSV
-ruta_csv = 'partidos.csv'
+ruta_csv = '../data/partidos.csv'
 with open(ruta_csv, 'w', newline='', encoding='utf-8') as archivo_csv:
     escritor_csv = csv.writer(archivo_csv)
     for fila in datos_totales:
