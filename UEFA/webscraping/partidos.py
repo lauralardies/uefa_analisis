@@ -50,8 +50,8 @@ for url in urls:
     for fila in filas:
         # Obtenemos las celdas de la fila
         celdas = fila.find_all(['th', 'td'])
-        # Eliminamos las celdas que contienen 'xG' en el atributo 'data-label' ya que no están en todas las temporadas
-        celdas = [celda for celda in celdas if 'xG' not in celda.get('data-label')]
+        # Eliminamos las celdas que contienen 'xg' en el atributo 'data-stat' ya que no están en todas las temporadas
+        celdas = [celda for celda in celdas if 'xg' not in celda.get('data-stat')]
         # Extraemos el texto de cada celda y lo agregamos a la lista de datos
         datos_fila = [celda.get_text(strip=True) for celda in celdas]
         # Agregamos la temporada como la primera columna en cada fila, extrayéndola de la URL directamente
