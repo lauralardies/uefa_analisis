@@ -56,7 +56,7 @@ for url in urls:
         datos_fila = [celda.get_text(strip=True) for celda in celdas if celda.get_text(strip=True)]
         if datos_fila:
             # Agregamos la temporada como la primera columna en cada fila, extrayéndola de la URL directamente
-            temporada = '/'.join(url.split('/')[-1].split('-')[:2])
+            temporada = url.split('/')[-3]
             datos_fila.insert(0, temporada)
             if datos_fila not in datos_totales:
                 # Agregamos la fila a la lista de datos totales evitando agregar el encabezado de la tabla más de una vez
