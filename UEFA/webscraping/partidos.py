@@ -40,7 +40,7 @@ for url in urls:
     # Creamos un objeto BeautifulSoup
     soup = BeautifulSoup(html, 'html.parser')
 
-    # Buscamos la sección de texto que contiene la información de los octavos
+    # Buscamos la sección de texto que contiene la información de las fases eliminatorias
     html = soup.find('span', attrs={'data-label': 'Scores & Fixtures'}).find_next('table', id=lambda x: x and '_8_3' in x)
      
     # Obtenemos las filas de la tabla
@@ -52,15 +52,15 @@ for url in urls:
         celdas = fila.find_all(['th', 'td'])
         # Eliminamos las celdas que contienen 'xg' en el atributo 'data-stat' ya que no están en todas las temporadas
         celdas = [celda for celda in celdas if 'xg' not in celda.get('data-stat')]
-        # Extraemos el texto de cada celda y lo agregamos a la lista de datos
-        datos_fila = [celda.get_text(strip=True) for celda in celdas]
-        # Agregamos la temporada como la primera columna en cada fila, extrayéndola de la URL directamente
-        temporada = url.split('/')[-1].split('-')[:2]
-        temporada = '/'.join(temporada)
-        datos_fila.insert(0, temporada)
-        # Agregamos la fila a la lista de datos totales, si no está vacía y no es un duplicado
-        if fila not in datos_totales or fila != [temporada,'','','','','','','', '', '', '', '', '']:
-            datos_totales.append(datos_fila)
+        # Extraemos el texto de cada celda y lo agregamos a la lista de datos, eliminando los espacios en blanco
+        datos_fila = [celda.get_text(strip=True) for celda in celdas if celda.get_text(strip=True)]
+        if datos_fila:
+            # Agregamos la temporada como la primera columna en cada fila, extrayéndola de la URL directamente
+            temporada = '/'.join(url.split('/')[-1].split('-')[:2])
+            datos_fila.insert(0, temporada)
+            if datos_fila not in datos_totales:
+                # Agregamos la fila a la lista de datos totales evitando agregar el encabezado de la tabla más de una vez
+                datos_totales.append(datos_fila)
 
 # Cambiamos el encabezado de la primera columna
 datos_totales[0][0] = 'Season'
