@@ -56,15 +56,21 @@ for url in urls:
         datos_fila = [celda.get_text(strip=True) for celda in celdas if celda.get_text(strip=True)]
         # Si la fila contiene datos, agregamos temporada y fila a la lista de datos totales
         if datos_fila:
-            # Agregamos la temporada como la primera columna en cada fila, extrayéndola de la URL directamente
+            # Extraemos la termporada del URL directamente
             temporada = url.split('/')[-2]
-            datos_fila.insert(0, temporada)
-            if datos_fila not in datos_totales:
-                # Agregamos la fila a la lista de datos totales evitando agregar el encabezado de la tabla más de una vez
-                datos_totales.append(datos_fila)
-
-# Cambiamos el encabezado de la primera columna
-datos_totales[0][0] = 'Season'
+            # Si la lista de datos totales está vacía, agregamos el encabezado de la tabla
+            if len(datos_totales) == 0:
+                # Agregamos la temporada al encabezado
+                datos_fila.insert(0, 'Season')
+            else:
+                if datos_fila == datos_totales[0][1:]:
+                    # Si la fila ya está en la lista de datos totales, pasa a la siguiente fila
+                    continue
+                else:
+                    # Si la fila no coincide con la primera fila de datos totales, agregamos la temporada a la fila
+                    datos_fila.insert(0, temporada)
+            # Agregamos la fila a la lista de datos totales 
+            datos_totales.append(datos_fila)
 
 # Escribimos los datos en un archivo CSV
 ruta_csv = '../data/overall.csv'
