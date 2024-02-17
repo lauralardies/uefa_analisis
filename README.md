@@ -1,4 +1,4 @@
-# uefa_analisis
+# UEFA Champions League
 
 Este es el link del [repositorio](https://github.com/lauralardies/uefa_analisis/tree/main).
 
