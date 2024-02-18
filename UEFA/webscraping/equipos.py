@@ -63,15 +63,15 @@ for url in urls:
                 # Agregamos la temporada al encabezado
                 datos_fila.insert(0, 'Season')
             else:
-                if datos_fila[:15] == datos_totales[0][1:]:
+                if datos_fila[:16] == datos_totales[0][1:]:
                     # Si la fila ya está en la lista de datos totales, pasa a la siguiente fila
                     continue
                 else:
                     # Si la fila no coincide con la primera fila de datos totales, agregamos la temporada a la fila
                     datos_fila.insert(0, temporada)
             # Agregamos la fila a la lista de datos totales 
-            # Solo añadimos los primeros 16 elementos de la lista, ya que el resto no nos interesa
-            datos_totales.append(datos_fila[:16])
+            # Solo añadimos los primeros 16 elementos de la lista (+ la temporada que ya hemos añadido), ya que el resto no nos interesa
+            datos_totales.append(datos_fila[:17])
 
 # Escribimos los datos en un archivo CSV
 ruta_csv = '../data/equipos.csv'
