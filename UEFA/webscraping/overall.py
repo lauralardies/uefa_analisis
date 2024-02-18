@@ -52,8 +52,8 @@ for url in urls:
         celdas = fila.find_all(['th', 'td'])
         # Eliminamos las celdas que contienen 'xg' en el atributo 'data-stat' ya que no están en todas las temporadas
         celdas = [celda for celda in celdas if 'xg' not in celda.get('data-stat')]
-        # Extraemos el texto de cada celda y lo agregamos a la lista de datos, eliminando los espacios en blanco
-        datos_fila = [celda.get_text(strip=True) for celda in celdas if celda.get_text(strip=True)]
+        # Extraemos el texto de cada celda y lo agregamos a la lista de datos
+        datos_fila = [celda.get_text(strip=True) for celda in celdas]
         # Si la fila contiene datos, agregamos temporada y fila a la lista de datos totales
         if datos_fila:
             # Extraemos la termporada del URL directamente

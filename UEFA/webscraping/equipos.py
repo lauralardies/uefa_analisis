@@ -52,8 +52,8 @@ for url in urls:
     for fila in filas:
         # Obtenemos las celdas de la fila
         celdas = fila.find_all(['th', 'td'])
-        # Extraemos el texto de cada celda y lo agregamos a la lista de datos, eliminando los espacios en blanco
-        datos_fila = [celda.get_text(strip=True) for celda in celdas if celda.get_text(strip=True)]
+        # Extraemos el texto de cada celda y lo agregamos a la lista de datos
+        datos_fila = [celda.get_text(strip=True) for celda in celdas]
         # Si la fila contiene datos, agregamos temporada y fila a la lista de datos totales
         if datos_fila:
             # Extraemos la termporada del URL directamente
