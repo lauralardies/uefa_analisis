@@ -1,0 +1,575 @@
+Season,Round,Day,Date Time,Home,Country (Home),Score,Country (Away),Away,Venue,Referee
+2022-2023,Round of 16,Tue,2023-02-14 21:00:00,Milan,Italia,1–0,Inglaterra,Tottenham,Stadio Giuseppe Meazza,Otros
+2022-2023,Round of 16,Tue,2023-02-14 21:00:00,Paris S-G,Francia,0–1,Alemania,Bayern Munich,Parc des Princes,Otros
+2022-2023,Round of 16,Wed,2023-02-15 21:00:00,Club Brugge,Bélgica,0–2,Portugal,Benfica,Jan Breydelstadion,Otros
+2022-2023,Round of 16,Wed,2023-02-15 21:00:00,Dortmund,Alemania,1–0,Inglaterra,Chelsea,Signal Iduna Park,Otros
+2022-2023,Round of 16,Tue,2023-02-21 20:00:00,Liverpool,Inglaterra,2–5,España,Real Madrid,Anfield,Otros
+2022-2023,Round of 16,Tue,2023-02-21 21:00:00,Eint Frankfurt,Alemania,0–2,Italia,Napoli,Deutsche Bank Park,Otros
+2022-2023,Round of 16,Wed,2023-02-22 21:00:00,Inter,Italia,1–0,Portugal,Porto,Stadio Giuseppe Meazza,Otros
+2022-2023,Round of 16,Wed,2023-02-22 21:00:00,RB Leipzig,Alemania,1–1,Inglaterra,Manchester City,Red Bull Arena,Otros
+2022-2023,Round of 16,Tue,2023-03-07 20:00:00,Benfica,Portugal,5–1,Bélgica,Club Brugge,Estádio do Sport Lisboa e Benfica,Otros
+2022-2023,Round of 16,Tue,2023-03-07 20:00:00,Chelsea,Inglaterra,2–0,Alemania,Dortmund,Stamford Bridge,Danny Makkelie
+2022-2023,Round of 16,Wed,2023-03-08 20:00:00,Tottenham,Inglaterra,0–0,Italia,Milan,Tottenham Hotspur Stadium,Clément Turpin
+2022-2023,Round of 16,Wed,2023-03-08 21:00:00,Bayern Munich,Alemania,2–0,Francia,Paris S-G,Allianz Arena,Daniele Orsato
+2022-2023,Round of 16,Tue,2023-03-14 20:00:00,Porto,Portugal,0–0,Italia,Inter,Estádio Do Dragão,Szymon Marciniak
+2022-2023,Round of 16,Tue,2023-03-14 20:00:00,Manchester City,Inglaterra,7–0,Alemania,RB Leipzig,Etihad Stadium,Otros
+2022-2023,Round of 16,Wed,2023-03-15 21:00:00,Real Madrid,España,1–0,Inglaterra,Liverpool,Estadio Santiago Bernabéu,Otros
+2022-2023,Round of 16,Wed,2023-03-15 21:00:00,Napoli,Italia,3–0,Alemania,Eint Frankfurt,Stadio Diego Armando Maradona,Otros
+2022-2023,Quarter-finals,Tue,2023-04-11 20:00:00,Benfica,Portugal,0–2,Italia,Inter,Estádio da Luz (1954),Otros
+2022-2023,Quarter-finals,Tue,2023-04-11 20:00:00,Manchester City,Inglaterra,3–0,Alemania,Bayern Munich,Etihad Stadium,Otros
+2022-2023,Quarter-finals,Wed,2023-04-12 21:00:00,Milan,Italia,1–0,Italia,Napoli,Stadio Giuseppe Meazza,Otros
+2022-2023,Quarter-finals,Wed,2023-04-12 21:00:00,Real Madrid,España,2–0,Inglaterra,Chelsea,Estadio Santiago Bernabéu,Otros
+2022-2023,Quarter-finals,Tue,2023-04-18 20:00:00,Chelsea,Inglaterra,0–2,España,Real Madrid,Stamford Bridge,Daniele Orsato
+2022-2023,Quarter-finals,Tue,2023-04-18 21:00:00,Napoli,Italia,1–1,Italia,Milan,Stadio Diego Armando Maradona,Szymon Marciniak
+2022-2023,Quarter-finals,Wed,2023-04-19 21:00:00,Inter,Italia,3–3,Portugal,Benfica,Stadio Giuseppe Meazza,Otros
+2022-2023,Quarter-finals,Wed,2023-04-19 21:00:00,Bayern Munich,Alemania,1–1,Inglaterra,Manchester City,Allianz Arena,Clément Turpin
+2022-2023,Semi-finals,Tue,2023-05-09 21:00:00,Real Madrid,España,1–1,Inglaterra,Manchester City,Estadio Santiago Bernabéu,Otros
+2022-2023,Semi-finals,Wed,2023-05-10 21:00:00,Milan,Italia,0–2,Italia,Inter,Stadio Giuseppe Meazza,Otros
+2022-2023,Semi-finals,Tue,2023-05-16 21:00:00,Inter,Italia,1–0,Italia,Milan,Stadio Giuseppe Meazza,Clément Turpin
+2022-2023,Semi-finals,Wed,2023-05-17 20:00:00,Manchester City,Inglaterra,4–0,España,Real Madrid,Etihad Stadium,Szymon Marciniak
+2022-2023,Final,Sat,2023-06-10 22:00:00,Manchester City,Inglaterra,1–0,Italia,Inter,Atatürk Olimpiyat Stadı (Neutral Site),Szymon Marciniak
+2021-2022,Round of 16,Tue,2022-02-15 20:00:00,Sporting CP,Portugal,0–5,Inglaterra,Manchester City,Estádio José Alvalade,Otros
+2021-2022,Round of 16,Tue,2022-02-15 21:00:00,Paris S-G,Francia,1–0,España,Real Madrid,Parc des Princes,Daniele Orsato
+2021-2022,Round of 16,Wed,2022-02-16 21:00:00,Inter,Italia,0–2,Inglaterra,Liverpool,Stadio Giuseppe Meazza,Szymon Marciniak
+2021-2022,Round of 16,Wed,2022-02-16 21:00:00,RB Salzburg,Austria,1–1,Alemania,Bayern Munich,Red Bull Arena,Otros
+2021-2022,Round of 16,Tue,2022-02-22 20:00:00,Chelsea,Inglaterra,2–0,Francia,Lille,Stamford Bridge,Otros
+2021-2022,Round of 16,Tue,2022-02-22 21:00:00,Villarreal,España,1–1,Italia,Juventus,Estadio de la Cerámica,Otros
+2021-2022,Round of 16,Wed,2022-02-23 20:00:00,Benfica,Portugal,2–2,Países bajos,Ajax,Estádio do Sport Lisboa e Benfica,Otros
+2021-2022,Round of 16,Wed,2022-02-23 21:00:00,Atlético Madrid,España,1–1,Inglaterra,Manchester Utd,Estadio Wanda Metropolitano,Otros
+2021-2022,Round of 16,Tue,2022-03-08 20:00:00,Liverpool,Inglaterra,0–1,Italia,Inter,Anfield,Antonio Matéu Lahoz
+2021-2022,Round of 16,Tue,2022-03-08 21:00:00,Bayern Munich,Alemania,7–1,Austria,RB Salzburg,Allianz Arena,Clément Turpin
+2021-2022,Round of 16,Wed,2022-03-09 20:00:00,Manchester City,Inglaterra,0–0,Portugal,Sporting CP,Etihad Stadium,Otros
+2021-2022,Round of 16,Wed,2022-03-09 21:00:00,Real Madrid,España,3–1,Francia,Paris S-G,Estadio Santiago Bernabéu,Danny Makkelie
+2021-2022,Round of 16,Tue,2022-03-15 20:00:00,Manchester Utd,Inglaterra,0–1,España,Atlético Madrid,Old Trafford,Otros
+2021-2022,Round of 16,Tue,2022-03-15 21:00:00,Ajax,Países bajos,0–1,Portugal,Benfica,Johan Cruyff ArenA,Otros
+2021-2022,Round of 16,Wed,2022-03-16 21:00:00,Juventus,Italia,0–3,España,Villarreal,Allianz Stadium,Szymon Marciniak
+2021-2022,Round of 16,Wed,2022-03-16 21:00:00,Lille,Francia,1–2,Inglaterra,Chelsea,Stade Pierre-Mauroy,Otros
+2021-2022,Quarter-finals,Tue,2022-04-05 20:00:00,Manchester City,Inglaterra,1–0,España,Atlético Madrid,Etihad Stadium,Otros
+2021-2022,Quarter-finals,Tue,2022-04-05 20:00:00,Benfica,Portugal,1–3,Inglaterra,Liverpool,Estádio do Sport Lisboa e Benfica,Otros
+2021-2022,Quarter-finals,Wed,2022-04-06 20:00:00,Chelsea,Inglaterra,1–3,España,Real Madrid,Stamford Bridge,Clément Turpin
+2021-2022,Quarter-finals,Wed,2022-04-06 21:00:00,Villarreal,España,1–0,Alemania,Bayern Munich,Estadio de la Cerámica,Otros
+2021-2022,Quarter-finals,Tue,2022-04-12 21:00:00,Real Madrid,España,2–3,Inglaterra,Chelsea,Estadio Santiago Bernabéu,Szymon Marciniak
+2021-2022,Quarter-finals,Tue,2022-04-12 21:00:00,Bayern Munich,Alemania,1–1,España,Villarreal,Allianz Arena,Otros
+2021-2022,Quarter-finals,Wed,2022-04-13 20:00:00,Liverpool,Inglaterra,3–3,Portugal,Benfica,Anfield,Otros
+2021-2022,Quarter-finals,Wed,2022-04-13 21:00:00,Atlético Madrid,España,0–0,Inglaterra,Manchester City,Estadio Wanda Metropolitano,Otros
+2021-2022,Semi-finals,Tue,2022-04-26 20:00:00,Manchester City,Inglaterra,4–3,España,Real Madrid,Etihad Stadium,Otros
+2021-2022,Semi-finals,Wed,2022-04-27 20:00:00,Liverpool,Inglaterra,2–0,España,Villarreal,Anfield,Szymon Marciniak
+2021-2022,Semi-finals,Tue,2022-05-03 21:00:00,Villarreal,España,2–3,Inglaterra,Liverpool,Estadio de la Cerámica,Danny Makkelie
+2021-2022,Semi-finals,Wed,2022-05-04 21:00:00,Real Madrid,España,3–1,Inglaterra,Manchester City,Estadio Santiago Bernabéu,Daniele Orsato
+2021-2022,Final,Sat,2022-05-28 21:30:00,Liverpool,Inglaterra,0–1,España,Real Madrid,Stade de France (Neutral Site),Clément Turpin
+2020-2021,Round of 16,Tue,2021-02-16 21:00:00,RB Leipzig,Alemania,0–2,Inglaterra,Liverpool,Puskás Aréna (Neutral Site),Otros
+2020-2021,Round of 16,Tue,2021-02-16 21:00:00,Barcelona,España,1–4,Francia,Paris S-G,Camp Nou,Björn Kuipers
+2020-2021,Round of 16,Wed,2021-02-17 20:00:00,Porto,Portugal,2–1,Italia,Juventus,Estádio Do Dragão,Otros
+2020-2021,Round of 16,Wed,2021-02-17 21:00:00,Sevilla,España,2–3,Alemania,Dortmund,Estadio Ramón Sánchez Pizjuán,Danny Makkelie
+2020-2021,Round of 16,Tue,2021-02-23 21:00:00,Lazio,Italia,1–4,Alemania,Bayern Munich,Stadio Olimpico,Otros
+2020-2021,Round of 16,Tue,2021-02-23 21:00:00,Atlético Madrid,España,0–1,Inglaterra,Chelsea,Arena Naţională (Neutral Site),Felix Brych
+2020-2021,Round of 16,Wed,2021-02-24 21:00:00,M'Gladbach,Alemania,0–2,Inglaterra,Manchester City,Puskás Aréna (Neutral Site),Otros
+2020-2021,Round of 16,Wed,2021-02-24 21:00:00,Atalanta,Italia,0–1,España,Real Madrid,Stadio Atleti Azzurri d'Italia,Otros
+2020-2021,Round of 16,Tue,2021-03-09 21:00:00,Dortmund,Alemania,2–2,España,Sevilla,Fußballpark BVB Hohenbuschei,Cüneyt Çakιr
+2020-2021,Round of 16,Tue,2021-03-09 21:00:00,Juventus,Italia,3–2,Portugal,Porto,Allianz Stadium,Björn Kuipers
+2020-2021,Round of 16,Wed,2021-03-10 20:00:00,Liverpool,Inglaterra,2–0,Alemania,RB Leipzig,Puskás Aréna (Neutral Site),Clément Turpin
+2020-2021,Round of 16,Wed,2021-03-10 21:00:00,Paris S-G,Francia,1–1,España,Barcelona,Parc des Princes,Otros
+2020-2021,Round of 16,Tue,2021-03-16 20:00:00,Manchester City,Inglaterra,2–0,Alemania,M'Gladbach,Puskás Aréna (Neutral Site),Otros
+2020-2021,Round of 16,Tue,2021-03-16 21:00:00,Real Madrid,España,3–1,Italia,Atalanta,Estadio Alfredo Di Stéfano,Danny Makkelie
+2020-2021,Round of 16,Wed,2021-03-17 20:00:00,Chelsea,Inglaterra,2–0,España,Atlético Madrid,Stamford Bridge,Daniele Orsato
+2020-2021,Round of 16,Wed,2021-03-17 21:00:00,Bayern Munich,Alemania,2–1,Italia,Lazio,Allianz Arena,Otros
+2020-2021,Quarter-finals,Tue,2021-04-06 20:00:00,Manchester City,Inglaterra,2–1,Alemania,Dortmund,Etihad Stadium,Otros
+2020-2021,Quarter-finals,Tue,2021-04-06 21:00:00,Real Madrid,España,3–1,Inglaterra,Liverpool,Estadio Alfredo Di Stéfano,Felix Brych
+2020-2021,Quarter-finals,Wed,2021-04-07 20:00:00,Porto,Portugal,0–2,Inglaterra,Chelsea,Estadio Ramón Sánchez Pizjuán (Neutral Site),Otros
+2020-2021,Quarter-finals,Wed,2021-04-07 21:00:00,Bayern Munich,Alemania,2–3,Francia,Paris S-G,Allianz Arena,Antonio Matéu Lahoz
+2020-2021,Quarter-finals,Tue,2021-04-13 20:00:00,Chelsea,Inglaterra,0–1,Portugal,Porto,Estadio Ramón Sánchez Pizjuán (Neutral Site),Clément Turpin
+2020-2021,Quarter-finals,Tue,2021-04-13 21:00:00,Paris S-G,Francia,0–1,Alemania,Bayern Munich,Parc des Princes,Daniele Orsato
+2020-2021,Quarter-finals,Wed,2021-04-14 20:00:00,Liverpool,Inglaterra,0–0,España,Real Madrid,Anfield,Björn Kuipers
+2020-2021,Quarter-finals,Wed,2021-04-14 21:00:00,Dortmund,Alemania,1–2,Inglaterra,Manchester City,Signal Iduna Park,Otros
+2020-2021,Semi-finals,Tue,2021-04-27 21:00:00,Real Madrid,España,1–1,Inglaterra,Chelsea,Estadio Alfredo Di Stéfano,Danny Makkelie
+2020-2021,Semi-finals,Wed,2021-04-28 21:00:00,Paris S-G,Francia,1–2,Inglaterra,Manchester City,Parc des Princes,Felix Brych
+2020-2021,Semi-finals,Tue,2021-05-04 20:00:00,Manchester City,Inglaterra,2–0,Francia,Paris S-G,Etihad Stadium,Björn Kuipers
+2020-2021,Semi-finals,Wed,2021-05-05 20:00:00,Chelsea,Inglaterra,2–0,España,Real Madrid,Stamford Bridge,Daniele Orsato
+2020-2021,Final,Sat,2021-05-29 22:00:00,Manchester City,Inglaterra,0–1,Inglaterra,Chelsea,Estádio Do Dragão (Neutral Site),Antonio Matéu Lahoz
+2019-2020,Round of 16,Tue,2020-02-18 21:00:00,Atlético Madrid,España,1–0,Inglaterra,Liverpool,Estadio Wanda Metropolitano,Szymon Marciniak
+2019-2020,Round of 16,Tue,2020-02-18 21:00:00,Dortmund,Alemania,2–1,Francia,Paris S-G,Signal Iduna Park,Antonio Matéu Lahoz
+2019-2020,Round of 16,Wed,2020-02-19 20:00:00,Tottenham,Inglaterra,0–1,Alemania,RB Leipzig,Tottenham Hotspur Stadium,Cüneyt Çakιr
+2019-2020,Round of 16,Wed,2020-02-19 21:00:00,Atalanta,Italia,4–1,España,Valencia,Stadio Giuseppe Meazza,Otros
+2019-2020,Round of 16,Tue,2020-02-25 20:00:00,Chelsea,Inglaterra,0–3,Alemania,Bayern Munich,Stamford Bridge,Clément Turpin
+2019-2020,Round of 16,Tue,2020-02-25 21:00:00,Napoli,Italia,1–1,España,Barcelona,Stadio San Paolo,Felix Brych
+2019-2020,Round of 16,Wed,2020-02-26 21:00:00,Real Madrid,España,1–2,Inglaterra,Manchester City,Estadio Santiago Bernabéu,Daniele Orsato
+2019-2020,Round of 16,Wed,2020-02-26 21:00:00,Lyon,Francia,1–0,Italia,Juventus,Groupama Stadium,Otros
+2019-2020,Round of 16,Tue,2020-03-10 21:00:00,Valencia,España,3–4,Italia,Atalanta,Estadio de Mestalla,Otros
+2019-2020,Round of 16,Tue,2020-03-10 21:00:00,RB Leipzig,Alemania,3–0,Inglaterra,Tottenham,Red Bull Arena,Otros
+2019-2020,Round of 16,Wed,2020-03-11 20:00:00,Liverpool,Inglaterra,2–3,España,Atlético Madrid,Anfield,Danny Makkelie
+2019-2020,Round of 16,Wed,2020-03-11 21:00:00,Paris S-G,Francia,2–0,Alemania,Dortmund,Parc des Princes,Otros
+2019-2020,Round of 16,Fri,2020-08-07 20:00:00,Manchester City,Inglaterra,2–1,España,Real Madrid,Etihad Stadium,Felix Brych
+2019-2020,Round of 16,Fri,2020-08-07 21:00:00,Juventus,Italia,2–1,Francia,Lyon,Allianz Stadium,Otros
+2019-2020,Round of 16,Sat,2020-08-08 21:00:00,Barcelona,España,3–1,Italia,Napoli,Camp Nou,Cüneyt Çakιr
+2019-2020,Round of 16,Sat,2020-08-08 21:00:00,Bayern Munich,Alemania,4–1,Inglaterra,Chelsea,Allianz Arena,Otros
+2019-2020,Quarter-finals,Wed,2020-08-12 21:00:00,Atalanta,Italia,1–2,Francia,Paris S-G,Estádio do Sport Lisboa e Benfica (Neutral Site),Otros
+2019-2020,Quarter-finals,Thu,2020-08-13 21:00:00,RB Leipzig,Alemania,2–1,España,Atlético Madrid,Estádio José Alvalade (Neutral Site),Szymon Marciniak
+2019-2020,Quarter-finals,Fri,2020-08-14 20:00:00,Barcelona,España,2–8,Alemania,Bayern Munich,Estádio do Sport Lisboa e Benfica (Neutral Site),Damir Skomina
+2019-2020,Quarter-finals,Sat,2020-08-15 20:00:00,Manchester City,Inglaterra,1–3,Francia,Lyon,Estádio José Alvalade (Neutral Site),Danny Makkelie
+2019-2020,Semi-finals,Tue,2020-08-18 20:00:00,RB Leipzig,Alemania,0–3,Francia,Paris S-G,Estádio do Sport Lisboa e Benfica (Neutral Site),Björn Kuipers
+2019-2020,Semi-finals,Wed,2020-08-19 20:00:00,Lyon,Francia,0–3,Alemania,Bayern Munich,Estádio José Alvalade (Neutral Site),Antonio Matéu Lahoz
+2019-2020,Final,Sun,2020-08-23 20:00:00,Paris S-G,Francia,0–1,Alemania,Bayern Munich,Estádio do Sport Lisboa e Benfica (Neutral Site),Daniele Orsato
+2018-2019,Round of 16,Tue,2019-02-12 20:00:00,Manchester Utd,Inglaterra,0–2,Francia,Paris S-G,Old Trafford,Daniele Orsato
+2018-2019,Round of 16,Tue,2019-02-12 21:00:00,Roma,Italia,2–1,Portugal,Porto,Stadio Olimpico,Otros
+2018-2019,Round of 16,Wed,2019-02-13 20:00:00,Tottenham,Inglaterra,3–0,Alemania,Dortmund,Wembley Stadium,Antonio Matéu Lahoz
+2018-2019,Round of 16,Wed,2019-02-13 21:00:00,Ajax,Países bajos,1–2,España,Real Madrid,Johan Cruyff ArenA,Szymon Marciniak
+2018-2019,Round of 16,Tue,2019-02-19 20:00:00,Liverpool,Inglaterra,0–0,Alemania,Bayern Munich,Anfield,Gianluca Rocchi
+2018-2019,Round of 16,Tue,2019-02-19 21:00:00,Lyon,Francia,0–0,España,Barcelona,Groupama Stadium,Cüneyt Çakιr
+2018-2019,Round of 16,Wed,2019-02-20 21:00:00,Schalke 04,Alemania,2–3,Inglaterra,Manchester City,Veltins-Arena,Otros
+2018-2019,Round of 16,Wed,2019-02-20 21:00:00,Atlético Madrid,España,2–0,Italia,Juventus,Estadio Wanda Metropolitano,Otros
+2018-2019,Round of 16,Tue,2019-03-05 21:00:00,Real Madrid,España,1–4,Países bajos,Ajax,Estadio Santiago Bernabéu,Felix Brych
+2018-2019,Round of 16,Tue,2019-03-05 21:00:00,Dortmund,Alemania,0–1,Inglaterra,Tottenham,Signal Iduna Park,Danny Makkelie
+2018-2019,Round of 16,Wed,2019-03-06 20:00:00,Porto,Portugal,3–1,Italia,Roma,Estádio Do Dragão,Otros
+2018-2019,Round of 16,Wed,2019-03-06 21:00:00,Paris S-G,Francia,1–3,Inglaterra,Manchester Utd,Parc des Princes,Damir Skomina
+2018-2019,Round of 16,Tue,2019-03-12 20:00:00,Manchester City,Inglaterra,7–0,Alemania,Schalke 04,Etihad Stadium,Clément Turpin
+2018-2019,Round of 16,Tue,2019-03-12 21:00:00,Juventus,Italia,3–0,España,Atlético Madrid,Allianz Stadium,Björn Kuipers
+2018-2019,Round of 16,Wed,2019-03-13 21:00:00,Bayern Munich,Alemania,1–3,Inglaterra,Liverpool,Allianz Arena,Daniele Orsato
+2018-2019,Round of 16,Wed,2019-03-13 21:00:00,Barcelona,España,5–1,Francia,Lyon,Camp Nou,Szymon Marciniak
+2018-2019,Quarter-finals,Tue,2019-04-09 20:00:00,Tottenham,Inglaterra,1–0,Inglaterra,Manchester City,Tottenham Hotspur Stadium,Björn Kuipers
+2018-2019,Quarter-finals,Tue,2019-04-09 20:00:00,Liverpool,Inglaterra,2–0,Portugal,Porto,Anfield,Antonio Matéu Lahoz
+2018-2019,Quarter-finals,Wed,2019-04-10 20:00:00,Manchester Utd,Inglaterra,0–1,España,Barcelona,Old Trafford,Gianluca Rocchi
+2018-2019,Quarter-finals,Wed,2019-04-10 21:00:00,Ajax,Países bajos,1–1,Italia,Juventus,Johan Cruyff ArenA,Otros
+2018-2019,Quarter-finals,Tue,2019-04-16 21:00:00,Juventus,Italia,1–2,Países bajos,Ajax,Allianz Stadium,Clément Turpin
+2018-2019,Quarter-finals,Tue,2019-04-16 21:00:00,Barcelona,España,3–0,Inglaterra,Manchester Utd,Camp Nou,Felix Brych
+2018-2019,Quarter-finals,Wed,2019-04-17 20:00:00,Manchester City,Inglaterra,4–3,Inglaterra,Tottenham,Etihad Stadium,Cüneyt Çakιr
+2018-2019,Quarter-finals,Wed,2019-04-17 20:00:00,Porto,Portugal,1–4,Inglaterra,Liverpool,Estádio Do Dragão,Danny Makkelie
+2018-2019,Semi-finals,Tue,2019-04-30 20:00:00,Tottenham,Inglaterra,0–1,Países bajos,Ajax,Tottenham Hotspur Stadium,Antonio Matéu Lahoz
+2018-2019,Semi-finals,Wed,2019-05-01 21:00:00,Barcelona,España,3–0,Inglaterra,Liverpool,Camp Nou,Björn Kuipers
+2018-2019,Semi-finals,Tue,2019-05-07 20:00:00,Liverpool,Inglaterra,4–0,España,Barcelona,Anfield,Cüneyt Çakιr
+2018-2019,Semi-finals,Wed,2019-05-08 21:00:00,Ajax,Países bajos,2–3,Inglaterra,Tottenham,Johan Cruyff ArenA,Felix Brych
+2018-2019,Final,Sat,2019-06-01 21:00:00,Tottenham,Inglaterra,0–2,Inglaterra,Liverpool,Estadio Wanda Metropolitano (Neutral Site),Damir Skomina
+2017-2018,Round of 16,Tue,2018-02-13 20:45:00,Juventus,Italia,2–2,Inglaterra,Tottenham,Allianz Stadium,Felix Brych
+2017-2018,Round of 16,Tue,2018-02-13 20:45:00,Basel,Suiza,0–4,Inglaterra,Manchester City,St. Jakob-Park,Jonas Eriksson
+2017-2018,Round of 16,Wed,2018-02-14 19:45:00,Porto,Portugal,0–5,Inglaterra,Liverpool,Estádio Do Dragão,Daniele Orsato
+2017-2018,Round of 16,Wed,2018-02-14 20:45:00,Real Madrid,España,3–1,Francia,Paris S-G,Estadio Ramón Sánchez Pizjuán,Gianluca Rocchi
+2017-2018,Round of 16,Tue,2018-02-20 19:45:00,Chelsea,Inglaterra,1–1,España,Barcelona,Stamford Bridge,Cüneyt Çakιr
+2017-2018,Round of 16,Tue,2018-02-20 20:45:00,Bayern Munich,Alemania,5–0,Turquía,Beşiktaş,Allianz Arena,Otros
+2017-2018,Round of 16,Wed,2018-02-21 20:45:00,Sevilla,España,0–0,Inglaterra,Manchester Utd,Estadio Ramón Sánchez Pizjuán,Clément Turpin
+2017-2018,Round of 16,Wed,2018-02-21 21:45:00,Shakhtar,Ucrania,2–1,Italia,Roma,Oblasny SportKomplex Metalist,Otros
+2017-2018,Round of 16,Tue,2018-03-06 19:45:00,Liverpool,Inglaterra,0–0,Portugal,Porto,Anfield,Otros
+2017-2018,Round of 16,Tue,2018-03-06 20:45:00,Paris S-G,Francia,1–2,España,Real Madrid,Parc des Princes,Felix Brych
+2017-2018,Round of 16,Wed,2018-03-07 19:45:00,Manchester City,Inglaterra,1–2,Suiza,Basel,Etihad Stadium,Otros
+2017-2018,Round of 16,Wed,2018-03-07 19:45:00,Tottenham,Inglaterra,1–2,Italia,Juventus,Wembley Stadium,Szymon Marciniak
+2017-2018,Round of 16,Tue,2018-03-13 19:45:00,Manchester Utd,Inglaterra,1–2,España,Sevilla,Old Trafford,Danny Makkelie
+2017-2018,Round of 16,Tue,2018-03-13 20:45:00,Roma,Italia,1–0,Ucrania,Shakhtar,Stadio Olimpico,Otros
+2017-2018,Round of 16,Wed,2018-03-14 20:00:00,Beşiktaş,Turquía,1–3,Alemania,Bayern Munich,Vodafone Arena,Otros
+2017-2018,Round of 16,Wed,2018-03-14 20:45:00,Barcelona,España,3–0,Inglaterra,Chelsea,Camp Nou,Damir Skomina
+2017-2018,Quarter-finals,Tue,2018-04-03 20:45:00,Sevilla,España,1–2,Alemania,Bayern Munich,Estadio Ramón Sánchez Pizjuán,Daniele Orsato
+2017-2018,Quarter-finals,Tue,2018-04-03 20:45:00,Juventus,Italia,0–3,España,Real Madrid,Allianz Stadium,Cüneyt Çakιr
+2017-2018,Quarter-finals,Wed,2018-04-04 19:45:00,Liverpool,Inglaterra,3–0,Inglaterra,Manchester City,Anfield,Felix Brych
+2017-2018,Quarter-finals,Wed,2018-04-04 20:45:00,Barcelona,España,4–1,Italia,Roma,Camp Nou,Danny Makkelie
+2017-2018,Quarter-finals,Tue,2018-04-10 19:45:00,Manchester City,Inglaterra,1–2,Inglaterra,Liverpool,Etihad Stadium,Antonio Matéu Lahoz
+2017-2018,Quarter-finals,Tue,2018-04-10 20:45:00,Roma,Italia,3–0,España,Barcelona,Stadio Olimpico,Clément Turpin
+2017-2018,Quarter-finals,Wed,2018-04-11 20:45:00,Bayern Munich,Alemania,0–0,España,Sevilla,Allianz Arena,Otros
+2017-2018,Quarter-finals,Wed,2018-04-11 20:45:00,Real Madrid,España,1–3,Italia,Juventus,Estadio Santiago Bernabéu,Otros
+2017-2018,Semi-finals,Tue,2018-04-24 19:45:00,Liverpool,Inglaterra,5–2,Italia,Roma,Anfield,Felix Brych
+2017-2018,Semi-finals,Wed,2018-04-25 20:45:00,Bayern Munich,Alemania,1–2,España,Real Madrid,Allianz Arena,Björn Kuipers
+2017-2018,Semi-finals,Tue,2018-05-01 20:45:00,Real Madrid,España,2–2,Alemania,Bayern Munich,Estadio Santiago Bernabéu,Cüneyt Çakιr
+2017-2018,Semi-finals,Wed,2018-05-02 20:45:00,Roma,Italia,4–2,Inglaterra,Liverpool,Stadio Olimpico,Damir Skomina
+2017-2018,Final,Sat,2018-05-26 21:45:00,Real Madrid,España,3–1,Inglaterra,Liverpool,NSK Olimpijs'kyj (Neutral Site),Otros
+2016-2017,Round of 16,Tue,2017-02-14 19:45:00,Benfica,Portugal,1–0,Alemania,Dortmund,Estádio do Sport Lisboa e Benfica,Nicola Rizzoli
+2016-2017,Round of 16,Tue,2017-02-14 20:45:00,Paris S-G,Francia,4–0,España,Barcelona,Parc des Princes,Szymon Marciniak
+2016-2017,Round of 16,Wed,2017-02-15 20:45:00,Bayern Munich,Alemania,5–1,Inglaterra,Arsenal,Allianz Arena,Otros
+2016-2017,Round of 16,Wed,2017-02-15 20:45:00,Real Madrid,España,3–1,Italia,Napoli,Estadio Santiago Bernabéu,Damir Skomina
+2016-2017,Round of 16,Tue,2017-02-21 19:45:00,Manchester City,Inglaterra,5–3,Francia,Monaco,Etihad Stadium,Antonio Matéu Lahoz
+2016-2017,Round of 16,Tue,2017-02-21 20:45:00,Leverkusen,Alemania,2–4,España,Atlético Madrid,BayArena,Otros
+2016-2017,Round of 16,Wed,2017-02-22 19:45:00,Porto,Portugal,0–2,Italia,Juventus,Estádio Do Dragão,Felix Brych
+2016-2017,Round of 16,Wed,2017-02-22 20:45:00,Sevilla,España,2–1,Inglaterra,Leicester City,Estadio Ramón Sánchez Pizjuán,Clément Turpin
+2016-2017,Round of 16,Tue,2017-03-07 19:45:00,Arsenal,Inglaterra,1–5,Alemania,Bayern Munich,Emirates Stadium,Otros
+2016-2017,Round of 16,Tue,2017-03-07 20:45:00,Napoli,Italia,1–3,España,Real Madrid,Stadio San Paolo,Cüneyt Çakιr
+2016-2017,Round of 16,Wed,2017-03-08 20:45:00,Dortmund,Alemania,4–0,Portugal,Benfica,Signal Iduna Park,Otros
+2016-2017,Round of 16,Wed,2017-03-08 20:45:00,Barcelona,España,6–1,Francia,Paris S-G,Camp Nou,Otros
+2016-2017,Round of 16,Tue,2017-03-14 19:45:00,Leicester City,Inglaterra,2–0,España,Sevilla,King Power Stadium,Daniele Orsato
+2016-2017,Round of 16,Tue,2017-03-14 20:45:00,Juventus,Italia,1–0,Portugal,Porto,Allianz Stadium,Otros
+2016-2017,Round of 16,Wed,2017-03-15 20:45:00,Atlético Madrid,España,0–0,Alemania,Leverkusen,Estadio Vicente Calderón,Otros
+2016-2017,Round of 16,Wed,2017-03-15 20:45:00,Monaco,Francia,3–1,Inglaterra,Manchester City,Stade Louis II.,Gianluca Rocchi
+2016-2017,Quarter-finals,Tue,2017-04-11 20:45:00,Juventus,Italia,3–0,España,Barcelona,Allianz Stadium,Szymon Marciniak
+2016-2017,Quarter-finals,Wed,2017-04-12 18:45:00,Dortmund,Alemania,2–3,Francia,Monaco,Signal Iduna Park,Daniele Orsato
+2016-2017,Quarter-finals,Wed,2017-04-12 20:45:00,Atlético Madrid,España,1–0,Inglaterra,Leicester City,Estadio Vicente Calderón,Jonas Eriksson
+2016-2017,Quarter-finals,Wed,2017-04-12 20:45:00,Bayern Munich,Alemania,1–2,España,Real Madrid,Allianz Arena,Nicola Rizzoli
+2016-2017,Quarter-finals,Tue,2017-04-18 19:45:00,Leicester City,Inglaterra,1–1,España,Atlético Madrid,King Power Stadium,Gianluca Rocchi
+2016-2017,Quarter-finals,Tue,2017-04-18 20:45:00,Real Madrid,España,4–2,Alemania,Bayern Munich,Estadio Santiago Bernabéu,Viktor Kassai
+2016-2017,Quarter-finals,Wed,2017-04-19 20:45:00,Monaco,Francia,3–1,Alemania,Dortmund,Stade Louis II.,Damir Skomina
+2016-2017,Quarter-finals,Wed,2017-04-19 20:45:00,Barcelona,España,0–0,Italia,Juventus,Camp Nou,Björn Kuipers
+2016-2017,Semi-finals,Tue,2017-05-02 20:45:00,Real Madrid,España,3–0,España,Atlético Madrid,Estadio Santiago Bernabéu,Otros
+2016-2017,Semi-finals,Wed,2017-05-03 20:45:00,Monaco,Francia,0–2,Italia,Juventus,Stade Louis II.,Antonio Matéu Lahoz
+2016-2017,Semi-finals,Tue,2017-05-09 20:45:00,Juventus,Italia,2–1,Francia,Monaco,Allianz Stadium,Björn Kuipers
+2016-2017,Semi-finals,Wed,2017-05-10 20:45:00,Atlético Madrid,España,2–1,España,Real Madrid,Estadio Vicente Calderón,Cüneyt Çakιr
+2016-2017,Final,Sat,2017-06-03 19:45:00,Juventus,Italia,1–4,España,Real Madrid,National Stadium (Neutral Site),Felix Brych
+2015-2016,Round of 16,Tue,2016-02-16 19:45:00,Benfica,Portugal,1–0,Italia,ruZen,Estádio do Sport Lisboa e Benfica,Gianluca Rocchi
+2015-2016,Round of 16,Tue,2016-02-16 20:45:00,Paris S-G,Francia,2–1,Inglaterra,Chelsea,Parc des Princes,Otros
+2015-2016,Round of 16,Wed,2016-02-17 20:45:00,Roma,Italia,0–2,España,Real Madrid,Stadio Olimpico,Otros
+2015-2016,Round of 16,Wed,2016-02-17 20:45:00,Gent,Bélgica,2–3,Alemania,Wolfsburg,GHELAMCO-arena,Otros
+2015-2016,Round of 16,Tue,2016-02-23 19:45:00,Arsenal,Inglaterra,0–2,España,Barcelona,Emirates Stadium,Cüneyt Çakιr
+2015-2016,Round of 16,Tue,2016-02-23 20:45:00,Juventus,Italia,2–2,Alemania,Bayern Munich,Allianz Stadium,Otros
+2015-2016,Round of 16,Wed,2016-02-24 20:45:00,PSV Eindhoven,Países bajos,0–0,España,Atlético Madrid,Philips Stadion,Daniele Orsato
+2015-2016,Round of 16,Wed,2016-02-24 21:45:00,Dynamo Kyiv,Ucrania,1–3,Inglaterra,Manchester City,NSK Olimpijs'kyj,Antonio Matéu Lahoz
+2015-2016,Round of 16,Tue,2016-03-08 20:45:00,Wolfsburg,Alemania,1–0,Bélgica,Gent,Volkswagen Arena,Damir Skomina
+2015-2016,Round of 16,Tue,2016-03-08 20:45:00,Real Madrid,España,2–0,Italia,Roma,Estadio Santiago Bernabéu,Szymon Marciniak
+2015-2016,Round of 16,Wed,2016-03-09 19:45:00,Chelsea,Inglaterra,1–2,Francia,Paris S-G,Stamford Bridge,Felix Brych
+2015-2016,Round of 16,Wed,2016-03-09 20:00:00,Zenit,Rusia,1–2,Portugal,Benfica,Stadion Petrovskij,Viktor Kassai
+2015-2016,Round of 16,Tue,2016-03-15 19:45:00,Manchester City,Inglaterra,0–0,Ucrania,Dynamo Kyiv,Etihad Stadium,Otros
+2015-2016,Round of 16,Tue,2016-03-15 20:45:00,Atlético Madrid,España,(8)0–0(7),Países bajos,PSV Eindhoven,Estadio Vicente Calderón,Mark Clattenburg
+2015-2016,Round of 16,Wed,2016-03-16 20:45:00,Barcelona,España,3–1,Inglaterra,Arsenal,Camp Nou,Otros
+2015-2016,Round of 16,Wed,2016-03-16 20:45:00,Bayern Munich,Alemania,4–2,Italia,Juventus,Allianz Arena,Jonas Eriksson
+2015-2016,Quarter-finals,Tue,2016-04-05 20:45:00,Bayern Munich,Alemania,1–0,Portugal,Benfica,Allianz Arena,Szymon Marciniak
+2015-2016,Quarter-finals,Tue,2016-04-05 20:45:00,Barcelona,España,2–1,España,Atlético Madrid,Camp Nou,Felix Brych
+2015-2016,Quarter-finals,Wed,2016-04-06 20:45:00,Paris S-G,Francia,2–2,Inglaterra,Manchester City,Parc des Princes,Otros
+2015-2016,Quarter-finals,Wed,2016-04-06 20:45:00,Wolfsburg,Alemania,2–0,España,Real Madrid,Volkswagen Arena,Gianluca Rocchi
+2015-2016,Quarter-finals,Tue,2016-04-12 19:45:00,Manchester City,Inglaterra,1–0,Francia,Paris S-G,Etihad Stadium,Otros
+2015-2016,Quarter-finals,Tue,2016-04-12 20:45:00,Real Madrid,España,3–0,Alemania,Wolfsburg,Estadio Santiago Bernabéu,Viktor Kassai
+2015-2016,Quarter-finals,Wed,2016-04-13 19:45:00,Benfica,Portugal,2–2,Alemania,Bayern Munich,Estádio do Sport Lisboa e Benfica,Björn Kuipers
+2015-2016,Quarter-finals,Wed,2016-04-13 20:45:00,Atlético Madrid,España,2–0,España,Barcelona,Estadio Vicente Calderón,Nicola Rizzoli
+2015-2016,Semi-finals,Tue,2016-04-26 19:45:00,Manchester City,Inglaterra,0–0,España,Real Madrid,Etihad Stadium,Cüneyt Çakιr
+2015-2016,Semi-finals,Wed,2016-04-27 20:45:00,Atlético Madrid,España,1–0,Alemania,Bayern Munich,Estadio Vicente Calderón,Mark Clattenburg
+2015-2016,Semi-finals,Tue,2016-05-03 20:45:00,Bayern Munich,Alemania,2–1,España,Atlético Madrid,Allianz Arena,Cüneyt Çakιr
+2015-2016,Semi-finals,Wed,2016-05-04 20:45:00,Real Madrid,España,1–0,Inglaterra,Manchester City,Estadio Santiago Bernabéu,Damir Skomina
+2015-2016,Final,Sat,2016-05-28 20:45:00,Real Madrid,España,(5)1–1(3),España,Atlético Madrid,Stadio Giuseppe Meazza (Neutral Site),Mark Clattenburg
+2014-2015,Round of 16,Tue,2015-02-17 20:45:00,Paris S-G,Francia,1–1,Inglaterra,Chelsea,Parc des Princes,Cüneyt Çakιr
+2014-2015,Round of 16,Tue,2015-02-17 21:45:00,Shakhtar,Ucrania,0–0,Alemania,Bayern Munich,L'viv Arena,Otros
+2014-2015,Round of 16,Wed,2015-02-18 20:45:00,Basel,Suiza,1–1,Portugal,Porto,St. Jakob-Park,Mark Clattenburg
+2014-2015,Round of 16,Wed,2015-02-18 20:45:00,Schalke 04,Alemania,0–2,España,Real Madrid,Veltins-Arena,Otros
+2014-2015,Round of 16,Tue,2015-02-24 19:45:00,Manchester City,Inglaterra,1–2,España,Barcelona,Etihad Stadium,Felix Brych
+2014-2015,Round of 16,Tue,2015-02-24 20:45:00,Juventus,Italia,2–1,Alemania,Dortmund,Allianz Stadium,Antonio Matéu Lahoz
+2014-2015,Round of 16,Wed,2015-02-25 19:45:00,Arsenal,Inglaterra,1–3,Francia,Monaco,Emirates Stadium,Otros
+2014-2015,Round of 16,Wed,2015-02-25 20:45:00,Leverkusen,Alemania,1–0,España,Atlético Madrid,BayArena,Otros
+2014-2015,Round of 16,Tue,2015-03-10 19:45:00,Porto,Portugal,4–0,Suiza,Basel,Estádio Do Dragão,Jonas Eriksson
+2014-2015,Round of 16,Tue,2015-03-10 20:45:00,Real Madrid,España,3–4,Alemania,Schalke 04,Estadio Santiago Bernabéu,Damir Skomina
+2014-2015,Round of 16,Wed,2015-03-11 19:45:00,Chelsea,Inglaterra,2–2,Francia,Paris S-G,Stamford Bridge,Björn Kuipers
+2014-2015,Round of 16,Wed,2015-03-11 20:45:00,Bayern Munich,Alemania,7–0,Ucrania,Shakhtar,Allianz Arena,Otros
+2014-2015,Round of 16,Tue,2015-03-17 20:45:00,Monaco,Francia,0–2,Inglaterra,Arsenal,Stade Louis II.,Otros
+2014-2015,Round of 16,Tue,2015-03-17 20:45:00,Atlético Madrid,España,(3)1–0(2),Alemania,Leverkusen,Estadio Vicente Calderón,Nicola Rizzoli
+2014-2015,Round of 16,Wed,2015-03-18 20:45:00,Dortmund,Alemania,0–3,Italia,Juventus,Signal Iduna Park,Otros
+2014-2015,Round of 16,Wed,2015-03-18 20:45:00,Barcelona,España,1–0,Inglaterra,Manchester City,Camp Nou,Gianluca Rocchi
+2014-2015,Quarter-finals,Tue,2015-04-14 20:45:00,Juventus,Italia,1–0,Francia,Monaco,Allianz Stadium,Otros
+2014-2015,Quarter-finals,Tue,2015-04-14 20:45:00,Atlético Madrid,España,0–0,España,Real Madrid,Estadio Vicente Calderón,Otros
+2014-2015,Quarter-finals,Wed,2015-04-15 19:45:00,Porto,Portugal,3–1,Alemania,Bayern Munich,Estádio Do Dragão,Otros
+2014-2015,Quarter-finals,Wed,2015-04-15 20:45:00,Paris S-G,Francia,1–3,España,Barcelona,Parc des Princes,Mark Clattenburg
+2014-2015,Quarter-finals,Tue,2015-04-21 20:45:00,Barcelona,España,2–0,Francia,Paris S-G,Camp Nou,Otros
+2014-2015,Quarter-finals,Tue,2015-04-21 20:45:00,Bayern Munich,Alemania,6–1,Portugal,Porto,Allianz Arena,Otros
+2014-2015,Quarter-finals,Wed,2015-04-22 20:45:00,Monaco,Francia,0–0,Italia,Juventus,Stade Louis II.,Otros
+2014-2015,Quarter-finals,Wed,2015-04-22 20:45:00,Real Madrid,España,1–0,España,Atlético Madrid,Estadio Santiago Bernabéu,Felix Brych
+2014-2015,Semi-finals,Tue,2015-05-05 20:45:00,Juventus,Italia,2–1,España,Real Madrid,Allianz Stadium,Otros
+2014-2015,Semi-finals,Wed,2015-05-06 20:45:00,Barcelona,España,3–0,Alemania,Bayern Munich,Camp Nou,Nicola Rizzoli
+2014-2015,Semi-finals,Tue,2015-05-12 20:45:00,Bayern Munich,Alemania,3–2,España,Barcelona,Allianz Arena,Mark Clattenburg
+2014-2015,Semi-finals,Wed,2015-05-13 20:45:00,Real Madrid,España,1–1,Italia,Juventus,Estadio Santiago Bernabéu,Jonas Eriksson
+2014-2015,Final,Sat,2015-06-06 20:45:00,Juventus,Italia,1–3,España,Barcelona,Olympiastadion Berlin (Neutral Site),Cüneyt Çakιr
+2013-2014,Round of 16,Tue,,Manchester City,Inglaterra,0–2,España,Barcelona,City of Manchester Stadium,Jonas Eriksson
+2013-2014,Round of 16,Tue,,Leverkusen,Alemania,0–4,Francia,Paris S-G,BayArena,Viktor Kassai
+2013-2014,Round of 16,Wed,,Milan,Italia,0–1,España,Atlético Madrid,Stadio Giuseppe Meazza,Otros
+2013-2014,Round of 16,Wed,,Arsenal,Inglaterra,0–2,Alemania,Bayern Munich,Arsenal Stadium,Nicola Rizzoli
+2013-2014,Round of 16,Tue,,Zenit,Rusia,2–4,Alemania,Dortmund,Stadion Petrovski,Otros
+2013-2014,Round of 16,Tue,,Olympiacos,Grecia,2–0,Inglaterra,Manchester Utd,Stadio Georgios Karaiskakis,Gianluca Rocchi
+2013-2014,Round of 16,Wed,,Schalke 04,Alemania,1–6,España,Real Madrid,Arena AufSchalke,Howard Webb
+2013-2014,Round of 16,Wed,,Galatasaray,Turquía,1–1,Inglaterra,Chelsea,Ali Sami Yen Spor Kompleksi,Otros
+2013-2014,Round of 16,Tue,,Atlético Madrid,España,4–1,Italia,Milan,Estadio Vicente Calderón,Mark Clattenburg
+2013-2014,Round of 16,Tue,,Bayern Munich,Alemania,1–1,Inglaterra,Arsenal,Fußball Arena München,Otros
+2013-2014,Round of 16,Wed,,Barcelona,España,2–1,Inglaterra,Manchester City,Camp Nou,Otros
+2013-2014,Round of 16,Wed,,Paris S-G,Francia,2–1,Alemania,Leverkusen,Parc des Princes,Otros
+2013-2014,Round of 16,Tue,,Real Madrid,España,3–1,Alemania,Schalke 04,Estadio Santiago Bernabéu,Otros
+2013-2014,Round of 16,Tue,,Chelsea,Inglaterra,2–0,Turquía,Galatasaray,Stamford Bridge,Felix Brych
+2013-2014,Round of 16,Wed,,Manchester Utd,Inglaterra,3–0,Grecia,Olympiacos,Old Trafford,Björn Kuipers
+2013-2014,Round of 16,Wed,,Dortmund,Alemania,1–2,Italia,ruZen,BVB Stadion Dortmund,Otros
+2013-2014,Quarter-finals,Tue,,Manchester Utd,Inglaterra,1–1,Alemania,Bayern Munich,Old Trafford,Otros
+2013-2014,Quarter-finals,Tue,,Barcelona,España,1–1,España,Atlético Madrid,Camp Nou,Felix Brych
+2013-2014,Quarter-finals,Wed,,Paris S-G,Francia,3–1,Inglaterra,Chelsea,Parc des Princes,Otros
+2013-2014,Quarter-finals,Wed,,Real Madrid,España,3–0,Alemania,Dortmund,Estadio Santiago Bernabéu,Mark Clattenburg
+2013-2014,Quarter-finals,Tue,,Dortmund,Alemania,2–0,España,Real Madrid,BVB Stadion Dortmund,Damir Skomina
+2013-2014,Quarter-finals,Tue,,Chelsea,Inglaterra,2–0,Francia,Paris S-G,Stamford Bridge,Otros
+2013-2014,Quarter-finals,Wed,,Bayern Munich,Alemania,3–1,Inglaterra,Manchester Utd,Fußball Arena München,Jonas Eriksson
+2013-2014,Quarter-finals,Wed,,Atlético Madrid,España,1–0,España,Barcelona,Estadio Vicente Calderón,Howard Webb
+2013-2014,Semi-finals,Tue,,Atlético Madrid,España,0–0,Inglaterra,Chelsea,Estadio Vicente Calderón,Jonas Eriksson
+2013-2014,Semi-finals,Wed,,Real Madrid,España,1–0,Alemania,Bayern Munich,Estadio Santiago Bernabéu,Howard Webb
+2013-2014,Semi-finals,Tue,,Bayern Munich,Alemania,0–4,España,Real Madrid,Fußball Arena München,Otros
+2013-2014,Semi-finals,Wed,,Chelsea,Inglaterra,1–3,España,Atlético Madrid,Stamford Bridge,Nicola Rizzoli
+2013-2014,Final,Sat,,Real Madrid,España,4–1,España,Atlético Madrid,Estádio do Sport Lisboa e Benfica (Neutral Site),Björn Kuipers
+2012-2013,Round of 16,Tue,,Valencia,España,1–2,Francia,Paris S-G,Estadi de Mestalla,Otros
+2012-2013,Round of 16,Tue,,Celtic,Escocia,0–3,Italia,Juventus,Celtic Park,Otros
+2012-2013,Round of 16,Wed,,Shakhtar,Ucrania,2–2,Alemania,Dortmund,Donbass Arena,Howard Webb
+2012-2013,Round of 16,Wed,,Real Madrid,España,1–1,Inglaterra,Manchester Utd,Estadio Santiago Bernabéu,Felix Brych
+2012-2013,Round of 16,Tue,,Porto,Portugal,1–0,España,Málaga,Estádio do Dragão,Mark Clattenburg
+2012-2013,Round of 16,Tue,,Arsenal,Inglaterra,1–3,Alemania,Bayern Munich,Arsenal Stadium,Otros
+2012-2013,Round of 16,Wed,,Galatasaray,Turquía,1–1,Alemania,Schalke 04,Ali Sami Yen Spor Kompleksi,Otros
+2012-2013,Round of 16,Wed,,Milan,Italia,2–0,España,Barcelona,Stadio Giuseppe Meazza,Otros
+2012-2013,Round of 16,Tue,,Manchester Utd,Inglaterra,1–2,España,Real Madrid,Old Trafford,Otros
+2012-2013,Round of 16,Tue,,Dortmund,Alemania,3–0,Ucrania,Shakhtar,BVB Stadion Dortmund,Damir Skomina
+2012-2013,Round of 16,Wed,,Juventus,Italia,2–0,Escocia,Celtic,Juventus Stadium,Otros
+2012-2013,Round of 16,Wed,,Paris S-G,Francia,1–1,España,Valencia,Parc des Princes,Otros
+2012-2013,Round of 16,Tue,,Schalke 04,Alemania,2–3,Turquía,Galatasaray,Arena AufSchalke,Jonas Eriksson
+2012-2013,Round of 16,Tue,,Barcelona,España,4–0,Italia,Milan,Camp Nou,Viktor Kassai
+2012-2013,Round of 16,Wed,,Málaga,España,2–0,Portugal,Porto,La Rosaleda,Nicola Rizzoli
+2012-2013,Round of 16,Wed,,Bayern Munich,Alemania,0–2,Inglaterra,Arsenal,Fußball Arena München,Otros
+2012-2013,Quarter-finals,Tue,,Bayern Munich,Alemania,2–0,Italia,Juventus,Fußball Arena München,Mark Clattenburg
+2012-2013,Quarter-finals,Tue,,Paris S-G,Francia,2–2,España,Barcelona,Parc des Princes,Wolfgang Stark
+2012-2013,Quarter-finals,Wed,,Real Madrid,España,3–0,Turquía,Galatasaray,Estadio Santiago Bernabéu,Otros
+2012-2013,Quarter-finals,Wed,,Málaga,España,0–0,Alemania,Dortmund,La Rosaleda,Jonas Eriksson
+2012-2013,Quarter-finals,Tue,,Galatasaray,Turquía,3–2,España,Real Madrid,Ali Sami Yen Spor Kompleksi,Otros
+2012-2013,Quarter-finals,Tue,,Dortmund,Alemania,3–2,España,Málaga,BVB Stadion Dortmund,Otros
+2012-2013,Quarter-finals,Wed,,Juventus,Italia,0–2,Alemania,Bayern Munich,Juventus Stadium,Otros
+2012-2013,Quarter-finals,Wed,,Barcelona,España,1–1,Francia,Paris S-G,Camp Nou,Björn Kuipers
+2012-2013,Semi-finals,Tue,,Bayern Munich,Alemania,4–0,España,Barcelona,Fußball Arena München,Viktor Kassai
+2012-2013,Semi-finals,Wed,,Dortmund,Alemania,4–1,España,Real Madrid,BVB Stadion Dortmund,Björn Kuipers
+2012-2013,Semi-finals,Tue,,Real Madrid,España,2–0,Alemania,Dortmund,Estadio Santiago Bernabéu,Howard Webb
+2012-2013,Semi-finals,Wed,,Barcelona,España,0–3,Alemania,Bayern Munich,Camp Nou,Damir Skomina
+2012-2013,Final,Sat,,Dortmund,Alemania,1–2,Alemania,Bayern Munich,Wembley Stadium (Neutral Site),Nicola Rizzoli
+2011-2012,Round of 16,Tue,,Leverkusen,Alemania,1–3,España,Barcelona,BayArena,Otros
+2011-2012,Round of 16,Tue,,Lyon,Francia,1–0,Chipre,APOEL FC,Stade de Gerland,Otros
+2011-2012,Round of 16,Wed,,Zenit,Rusia,3–2,Portugal,Benfica,Stadion Petrovski,Jonas Eriksson
+2011-2012,Round of 16,Wed,,Milan,Italia,4–0,Inglaterra,Arsenal,Stadio Giuseppe Meazza,Viktor Kassai
+2011-2012,Round of 16,Tue,,Napoli,Italia,3–1,Inglaterra,Chelsea,Stadio San Paolo,Otros
+2011-2012,Round of 16,Tue,,CSKA Moscow,Rusia,1–1,España,Real Madrid,Stadion Luzhniki,Björn Kuipers
+2011-2012,Round of 16,Wed,,Marseille,Francia,1–0,Italia,Inter,Stade Vélodrome,Otros
+2011-2012,Round of 16,Wed,,Basel,Suiza,1–0,Alemania,Bayern Munich,St. Jakob,Nicola Rizzoli
+2011-2012,Round of 16,Tue,,Benfica,Portugal,2–0,Italia,ruZen,Estádio do Sport Lisboa e Benfica,Howard Webb
+2011-2012,Round of 16,Tue,,Arsenal,Inglaterra,3–0,Italia,Milan,Arsenal Stadium,Damir Skomina
+2011-2012,Round of 16,Wed,,APOEL FC,Chipre,(4)1–0(3),Francia,Lyon,GSP Stadium,Otros
+2011-2012,Round of 16,Wed,,Barcelona,España,7–1,Alemania,Leverkusen,Camp Nou,Otros
+2011-2012,Round of 16,Tue,,Bayern Munich,Alemania,7–0,Suiza,Basel,Fußball Arena München,Mark Clattenburg
+2011-2012,Round of 16,Tue,,Inter,Italia,2–1,Francia,Marseille,Stadio Giuseppe Meazza,Otros
+2011-2012,Round of 16,Wed,,Real Madrid,España,4–1,Rusia,CSKA Moscow,Estadio Santiago Bernabéu,Otros
+2011-2012,Round of 16,Wed,,Chelsea,Inglaterra,4–1,Italia,Napoli,Stamford Bridge,Felix Brych
+2011-2012,Quarter-finals,Tue,,Benfica,Portugal,0–1,Inglaterra,Chelsea,Estádio do Sport Lisboa e Benfica,Otros
+2011-2012,Quarter-finals,Tue,,APOEL FC,Chipre,0–3,España,Real Madrid,GSP Stadium,Felix Brych
+2011-2012,Quarter-finals,Wed,,Milan,Italia,0–0,España,Barcelona,Stadio Giuseppe Meazza,Jonas Eriksson
+2011-2012,Quarter-finals,Wed,,Marseille,Francia,0–2,Alemania,Bayern Munich,Stade Vélodrome,Otros
+2011-2012,Quarter-finals,Tue,,Bayern Munich,Alemania,2–0,Francia,Marseille,Fußball Arena München,Otros
+2011-2012,Quarter-finals,Tue,,Barcelona,España,3–1,Italia,Milan,Camp Nou,Björn Kuipers
+2011-2012,Quarter-finals,Wed,,Chelsea,Inglaterra,2–1,Portugal,Benfica,Stamford Bridge,Damir Skomina
+2011-2012,Quarter-finals,Wed,,Real Madrid,España,5–2,Chipre,APOEL FC,Estadio Santiago Bernabéu,Gianluca Rocchi
+2011-2012,Semi-finals,Tue,,Bayern Munich,Alemania,2–1,España,Real Madrid,Fußball Arena München,Howard Webb
+2011-2012,Semi-finals,Wed,,Chelsea,Inglaterra,1–0,España,Barcelona,Stamford Bridge,Felix Brych
+2011-2012,Semi-finals,Tue,,Barcelona,España,2–2,Inglaterra,Chelsea,Camp Nou,Otros
+2011-2012,Semi-finals,Wed,,Real Madrid,España,(1)2–1(3),Alemania,Bayern Munich,Estadio Santiago Bernabéu,Viktor Kassai
+2011-2012,Final,Sat,,Bayern Munich,Alemania,(3)1–1(4),Inglaterra,Chelsea,Fußball Arena München (Neutral Site),Otros
+2010-2011,Round of 16,Tue,,Valencia,España,1–1,Alemania,Schalke 04,Estadi de Mestalla,Otros
+2010-2011,Round of 16,Tue,,Milan,Italia,0–1,Inglaterra,Tottenham,Stadio Giuseppe Meazza,Otros
+2010-2011,Round of 16,Wed,,Arsenal,Inglaterra,2–1,España,Barcelona,Arsenal Stadium,Nicola Rizzoli
+2010-2011,Round of 16,Wed,,Roma,Italia,2–3,Ucrania,Shakhtar,Stadio Olimpico,Otros
+2010-2011,Round of 16,Tue,,Lyon,Francia,1–1,España,Real Madrid,Stade de Gerland,Wolfgang Stark
+2010-2011,Round of 16,Tue,,FC Copenhagen,Dinamarca,0–2,Inglaterra,Chelsea,Telia Parken,Björn Kuipers
+2010-2011,Round of 16,Wed,,Inter,Italia,0–1,Alemania,Bayern Munich,Stadio Giuseppe Meazza,Viktor Kassai
+2010-2011,Round of 16,Wed,,Marseille,Francia,0–0,Inglaterra,Manchester Utd,Stade Vélodrome,Felix Brych
+2010-2011,Round of 16,Tue,,Barcelona,España,3–1,Inglaterra,Arsenal,Camp Nou,Massimo Busacca
+2010-2011,Round of 16,Tue,,Shakhtar,Ucrania,3–0,Italia,Roma,Donbass Arena,Howard Webb
+2010-2011,Round of 16,Wed,,Tottenham,Inglaterra,0–0,Italia,Milan,White Hart Lane,Frank de Bleeckere
+2010-2011,Round of 16,Wed,,Schalke 04,Alemania,3–1,España,Valencia,Arena AufSchalke,Jonas Eriksson
+2010-2011,Round of 16,Tue,,Manchester Utd,Inglaterra,2–1,Francia,Marseille,Old Trafford,Otros
+2010-2011,Round of 16,Tue,,Bayern Munich,Alemania,2–3,Italia,Inter,Fußball Arena München,Otros
+2010-2011,Round of 16,Wed,,Real Madrid,España,3–0,Francia,Lyon,Estadio Santiago Bernabéu,Damir Skomina
+2010-2011,Round of 16,Wed,,Chelsea,Inglaterra,0–0,Dinamarca,FC Copenhagen,Stamford Bridge,Otros
+2010-2011,Quarter-finals,Tue,,Real Madrid,España,4–0,Inglaterra,Tottenham,Estadio Santiago Bernabéu,Felix Brych
+2010-2011,Quarter-finals,Tue,,Inter,Italia,2–5,Alemania,Schalke 04,Stadio Giuseppe Meazza,Otros
+2010-2011,Quarter-finals,Wed,,Barcelona,España,5–1,Ucrania,Shakhtar,Camp Nou,Otros
+2010-2011,Quarter-finals,Wed,,Chelsea,Inglaterra,0–1,Inglaterra,Manchester Utd,Stamford Bridge,Otros
+2010-2011,Quarter-finals,Tue,,Shakhtar,Ucrania,0–1,España,Barcelona,Donbass Arena,Otros
+2010-2011,Quarter-finals,Tue,,Manchester Utd,Inglaterra,2–1,Inglaterra,Chelsea,Old Trafford,Otros
+2010-2011,Quarter-finals,Wed,,Tottenham,Inglaterra,0–1,España,Real Madrid,White Hart Lane,Nicola Rizzoli
+2010-2011,Quarter-finals,Wed,,Schalke 04,Alemania,2–1,Italia,Inter,Arena AufSchalke,Damir Skomina
+2010-2011,Semi-finals,Tue,,Schalke 04,Alemania,0–2,Inglaterra,Manchester Utd,Arena AufSchalke,Otros
+2010-2011,Semi-finals,Wed,,Real Madrid,España,0–2,España,Barcelona,Estadio Santiago Bernabéu,Wolfgang Stark
+2010-2011,Semi-finals,Tue,,Barcelona,España,1–1,España,Real Madrid,Camp Nou,Frank de Bleeckere
+2010-2011,Semi-finals,Wed,,Manchester Utd,Inglaterra,4–1,Alemania,Schalke 04,Old Trafford,Otros
+2010-2011,Final,Sat,,Barcelona,España,3–1,Inglaterra,Manchester Utd,Wembley Stadium (Neutral Site),Viktor Kassai
+2009-2010,Round of 16,Tue,,Lyon,Francia,1–0,España,Real Madrid,Stade de Gerland,Otros
+2009-2010,Round of 16,Tue,,Milan,Italia,2–3,Inglaterra,Manchester Utd,Stadio Giuseppe Meazza,Otros
+2009-2010,Round of 16,Wed,,Porto,Portugal,2–1,Inglaterra,Arsenal,Estádio do Dragão,Otros
+2009-2010,Round of 16,Wed,,Bayern Munich,Alemania,2–1,Italia,Fiorentina,Fußball Arena München,Otros
+2009-2010,Round of 16,Tue,,Olympiacos,Grecia,0–1,Francia,Bordeaux,Stadio Georgios Karaiskakis,Howard Webb
+2009-2010,Round of 16,Tue,,Stuttgart,Alemania,1–1,España,Barcelona,VfB Arena,Björn Kuipers
+2009-2010,Round of 16,Wed,,CSKA Moscow,Rusia,1–1,España,Sevilla,Stadion Luzhniki,Felix Brych
+2009-2010,Round of 16,Wed,,Inter,Italia,2–1,Inglaterra,Chelsea,Stadio Giuseppe Meazza,Mejuto González
+2009-2010,Round of 16,Tue,,Fiorentina,Italia,3–2,Alemania,Bayern Munich,Stadio Artemio Franchi,Otros
+2009-2010,Round of 16,Tue,,Arsenal,Inglaterra,5–0,Portugal,Porto,Arsenal Stadium,Frank de Bleeckere
+2009-2010,Round of 16,Wed,,Real Madrid,España,1–1,Francia,Lyon,Estadio Santiago Bernabéu,Nicola Rizzoli
+2009-2010,Round of 16,Wed,,Manchester Utd,Inglaterra,4–0,Italia,Milan,Old Trafford,Massimo Busacca
+2009-2010,Round of 16,Tue,,Chelsea,Inglaterra,0–1,Italia,Inter,Stamford Bridge,Wolfgang Stark
+2009-2010,Round of 16,Tue,,Sevilla,España,1–2,Rusia,CSKA Moscow,Estadio Ramón Sánchez Pizjuán,Viktor Kassai
+2009-2010,Round of 16,Wed,,Bordeaux,Francia,2–1,Grecia,Olympiacos,Stade Chaban,Otros
+2009-2010,Round of 16,Wed,,Barcelona,España,4–0,Alemania,Stuttgart,Camp Nou,Otros
+2009-2010,Quarter-finals,Tue,,Bayern Munich,Alemania,2–1,Inglaterra,Manchester Utd,Fußball Arena München,Frank de Bleeckere
+2009-2010,Quarter-finals,Tue,,Lyon,Francia,3–1,Francia,Bordeaux,Stade de Gerland,Felix Brych
+2009-2010,Quarter-finals,Wed,,Inter,Italia,1–0,Rusia,CSKA Moscow,Stadio Giuseppe Meazza,Howard Webb
+2009-2010,Quarter-finals,Wed,,Arsenal,Inglaterra,2–2,España,Barcelona,Arsenal Stadium,Massimo Busacca
+2009-2010,Quarter-finals,Tue,,CSKA Moscow,Rusia,0–1,Italia,Inter,Stadion Luzhniki,Otros
+2009-2010,Quarter-finals,Tue,,Barcelona,España,4–1,Inglaterra,Arsenal,Camp Nou,Wolfgang Stark
+2009-2010,Quarter-finals,Wed,,Bordeaux,Francia,1–0,Francia,Lyon,Stade Chaban,Otros
+2009-2010,Quarter-finals,Wed,,Manchester Utd,Inglaterra,3–2,Alemania,Bayern Munich,Old Trafford,Nicola Rizzoli
+2009-2010,Semi-finals,Tue,,Inter,Italia,3–1,España,Barcelona,Stadio Giuseppe Meazza,Otros
+2009-2010,Semi-finals,Wed,,Bayern Munich,Alemania,1–0,Francia,Lyon,Fußball Arena München,Otros
+2009-2010,Semi-finals,Tue,,Lyon,Francia,0–3,Alemania,Bayern Munich,Stade de Gerland,Massimo Busacca
+2009-2010,Semi-finals,Wed,,Barcelona,España,1–0,Italia,Inter,Camp Nou,Frank de Bleeckere
+2009-2010,Final,Sat,,Bayern Munich,Alemania,0–2,Italia,Inter,Estadio Santiago Bernabéu (Neutral Site),Howard Webb
+2008-2009,Round of 16,Tue,,Inter,Italia,0–0,Inglaterra,Manchester Utd,Stadio Giuseppe Meazza,Otros
+2008-2009,Round of 16,Tue,,Arsenal,Inglaterra,1–0,Italia,Roma,Arsenal Stadium,Otros
+2008-2009,Round of 16,Tue,,Lyon,Francia,1–1,España,Barcelona,Stade de Gerland,Wolfgang Stark
+2008-2009,Round of 16,Tue,,Atlético Madrid,España,2–2,Portugal,Porto,Estadio Vicente Calderón,Howard Webb
+2008-2009,Round of 16,Wed,,Sporting CP,Portugal,0–5,Alemania,Bayern Munich,José Alvalade,Otros
+2008-2009,Round of 16,Wed,,Chelsea,Inglaterra,1–0,Italia,Juventus,Stamford Bridge,Otros
+2008-2009,Round of 16,Wed,,Real Madrid,España,0–1,Inglaterra,Liverpool,Estadio Santiago Bernabéu,Otros
+2008-2009,Round of 16,Wed,,Villarreal,España,1–1,Grecia,Panathinaikos,Estadio El Madrigal,Otros
+2008-2009,Round of 16,Tue,,Panathinaikos,Grecia,1–2,España,Villarreal,OAKA Spiros Louis,Massimo Busacca
+2008-2009,Round of 16,Tue,,Bayern Munich,Alemania,7–1,Portugal,Sporting CP,Fußball Arena München,Otros
+2008-2009,Round of 16,Tue,,Juventus,Italia,2–2,Inglaterra,Chelsea,Stadio Olimpico,Otros
+2008-2009,Round of 16,Tue,,Liverpool,Inglaterra,4–0,España,Real Madrid,Anfield,Frank de Bleeckere
+2008-2009,Round of 16,Wed,,Roma,Italia,(6)1–0(7),Inglaterra,Arsenal,Stadio Olimpico,Mejuto González
+2008-2009,Round of 16,Wed,,Manchester Utd,Inglaterra,2–0,Italia,Inter,Old Trafford,Wolfgang Stark
+2008-2009,Round of 16,Wed,,Porto,Portugal,0–0,España,Atlético Madrid,Estádio do Dragão,Otros
+2008-2009,Round of 16,Wed,,Barcelona,España,5–2,Francia,Lyon,Camp Nou,Otros
+2008-2009,Quarter-finals,Tue,,Villarreal,España,1–1,Inglaterra,Arsenal,Estadio El Madrigal,Otros
+2008-2009,Quarter-finals,Tue,,Manchester Utd,Inglaterra,2–2,Portugal,Porto,Old Trafford,Otros
+2008-2009,Quarter-finals,Wed,,Barcelona,España,4–0,Alemania,Bayern Munich,Camp Nou,Howard Webb
+2008-2009,Quarter-finals,Wed,,Liverpool,Inglaterra,1–3,Inglaterra,Chelsea,Anfield,Otros
+2008-2009,Quarter-finals,Tue,,Chelsea,Inglaterra,4–4,Inglaterra,Liverpool,Stamford Bridge,Otros
+2008-2009,Quarter-finals,Tue,,Bayern Munich,Alemania,1–1,España,Barcelona,Fußball Arena München,Otros
+2008-2009,Quarter-finals,Wed,,Porto,Portugal,0–1,Inglaterra,Manchester Utd,Estádio do Dragão,Massimo Busacca
+2008-2009,Quarter-finals,Wed,,Arsenal,Inglaterra,3–0,España,Villarreal,Arsenal Stadium,Wolfgang Stark
+2008-2009,Semi-finals,Tue,,Barcelona,España,0–0,Inglaterra,Chelsea,Camp Nou,Wolfgang Stark
+2008-2009,Semi-finals,Wed,,Manchester Utd,Inglaterra,1–0,Inglaterra,Arsenal,Old Trafford,Otros
+2008-2009,Semi-finals,Tue,,Arsenal,Inglaterra,1–3,Inglaterra,Manchester Utd,Arsenal Stadium,Otros
+2008-2009,Semi-finals,Wed,,Chelsea,Inglaterra,1–1,España,Barcelona,Stamford Bridge,Otros
+2008-2009,Final,Wed,,Barcelona,España,2–0,Inglaterra,Manchester Utd,Stadio Olimpico (Neutral Site),Massimo Busacca
+2007-2008,Round of 16,Tue,,Schalke 04,Alemania,1–0,Portugal,Porto,Arena AufSchalke,Otros
+2007-2008,Round of 16,Tue,,Liverpool,Inglaterra,2–0,Italia,Inter,Anfield,Frank de Bleeckere
+2007-2008,Round of 16,Tue,,Roma,Italia,2–1,España,Real Madrid,Stadio Olimpico,Otros
+2007-2008,Round of 16,Tue,,Olympiacos,Grecia,0–0,Inglaterra,Chelsea,Stadio Georgios Karaiskakis,Otros
+2007-2008,Round of 16,Wed,,Arsenal,Inglaterra,0–0,Italia,Milan,Arsenal Stadium,Otros
+2007-2008,Round of 16,Wed,,Celtic,Escocia,2–3,España,Barcelona,Celtic Park,Otros
+2007-2008,Round of 16,Wed,,Fenerbahçe,Turquía,3–2,España,Sevilla,Şükrü Saracoğlu,Otros
+2007-2008,Round of 16,Wed,,Lyon,Francia,1–1,Inglaterra,Manchester Utd,Stade de Gerland,Otros
+2007-2008,Round of 16,Tue,,Manchester Utd,Inglaterra,1–0,Francia,Lyon,Old Trafford,Otros
+2007-2008,Round of 16,Tue,,Sevilla,España,(2)3–2(3),Turquía,Fenerbahçe,Estadio Ramón Sánchez Pizjuán,Massimo Busacca
+2007-2008,Round of 16,Tue,,Milan,Italia,0–2,Inglaterra,Arsenal,Stadio Giuseppe Meazza,Otros
+2007-2008,Round of 16,Tue,,Barcelona,España,1–0,Escocia,Celtic,Camp Nou,Otros
+2007-2008,Round of 16,Wed,,Porto,Portugal,(1)1–0(4),Alemania,Schalke 04,Estádio do Dragão,Howard Webb
+2007-2008,Round of 16,Wed,,Chelsea,Inglaterra,3–0,Grecia,Olympiacos,Stamford Bridge,Mejuto González
+2007-2008,Round of 16,Wed,,Real Madrid,España,1–2,Italia,Roma,Estadio Santiago Bernabéu,Kyros Vassaras
+2007-2008,Round of 16,Tue,,Inter,Italia,0–1,Inglaterra,Liverpool,Stadio Giuseppe Meazza,Otros
+2007-2008,Quarter-finals,Tue,,Schalke 04,Alemania,0–1,España,Barcelona,Arena AufSchalke,Kyros Vassaras
+2007-2008,Quarter-finals,Tue,,Roma,Italia,0–2,Inglaterra,Manchester Utd,Stadio Olimpico,Frank de Bleeckere
+2007-2008,Quarter-finals,Wed,,Arsenal,Inglaterra,1–1,Inglaterra,Liverpool,Arsenal Stadium,Otros
+2007-2008,Quarter-finals,Wed,,Fenerbahçe,Turquía,2–1,Inglaterra,Chelsea,Şükrü Saracoğlu,Otros
+2007-2008,Quarter-finals,Tue,,Chelsea,Inglaterra,2–0,Turquía,Fenerbahçe,Stamford Bridge,Otros
+2007-2008,Quarter-finals,Tue,,Liverpool,Inglaterra,4–2,Inglaterra,Arsenal,Anfield,Otros
+2007-2008,Quarter-finals,Wed,,Barcelona,España,1–0,Alemania,Schalke 04,Camp Nou,Otros
+2007-2008,Quarter-finals,Wed,,Manchester Utd,Inglaterra,1–0,Italia,Roma,Old Trafford,Otros
+2007-2008,Semi-finals,Tue,,Liverpool,Inglaterra,1–1,Inglaterra,Chelsea,Anfield,Otros
+2007-2008,Semi-finals,Wed,,Barcelona,España,0–0,Inglaterra,Manchester Utd,Camp Nou,Massimo Busacca
+2007-2008,Semi-finals,Tue,,Manchester Utd,Inglaterra,1–0,España,Barcelona,Old Trafford,Otros
+2007-2008,Semi-finals,Wed,,Chelsea,Inglaterra,3–2,Inglaterra,Liverpool,Stamford Bridge,Otros
+2007-2008,Final,Wed,,Manchester Utd,Inglaterra,(6)1–1(5),Inglaterra,Chelsea,Stadion Luzhniki (Neutral Site),Otros
+2006-2007,Round of 16,Tue,,Lille,Francia,0–1,Inglaterra,Manchester Utd,Stade Félix,Otros
+2006-2007,Round of 16,Tue,,Real Madrid,España,3–2,Alemania,Bayern Munich,Estadio Santiago Bernabéu,Frank de Bleeckere
+2006-2007,Round of 16,Tue,,Celtic,Escocia,0–0,Italia,Milan,Celtic Park,Otros
+2006-2007,Round of 16,Tue,,PSV Eindhoven,Países bajos,1–0,Inglaterra,Arsenal,PSV Stadion,Otros
+2006-2007,Round of 16,Wed,,Porto,Portugal,1–1,Inglaterra,Chelsea,Estádio do Dragão,Massimo Busacca
+2006-2007,Round of 16,Wed,,Barcelona,España,1–2,Inglaterra,Liverpool,Camp Nou,Kyros Vassaras
+2006-2007,Round of 16,Wed,,Roma,Italia,0–0,Francia,Lyon,Stadio Olimpico,Otros
+2006-2007,Round of 16,Wed,,Inter,Italia,2–2,España,Valencia,Stadio Giuseppe Meazza,Otros
+2006-2007,Round of 16,Tue,,Chelsea,Inglaterra,2–1,Portugal,Porto,Stamford Bridge,Otros
+2006-2007,Round of 16,Tue,,Liverpool,Inglaterra,0–1,España,Barcelona,Anfield,Otros
+2006-2007,Round of 16,Tue,,Valencia,España,0–0,Italia,Inter,Estadi de Mestalla,Wolfgang Stark
+2006-2007,Round of 16,Tue,,Lyon,Francia,0–2,Italia,Roma,Stade de Gerland,Mejuto González
+2006-2007,Round of 16,Wed,,Manchester Utd,Inglaterra,1–0,Francia,Lille,Old Trafford,Otros
+2006-2007,Round of 16,Wed,,Arsenal,Inglaterra,1–1,Países bajos,PSV Eindhoven,Arsenal Stadium,Otros
+2006-2007,Round of 16,Wed,,Bayern Munich,Alemania,2–1,España,Real Madrid,Fußball Arena München,Otros
+2006-2007,Round of 16,Wed,,Milan,Italia,1–0,Escocia,Celtic,Stadio Giuseppe Meazza,Otros
+2006-2007,Quarter-finals,Tue,,Milan,Italia,2–2,Alemania,Bayern Munich,Stadio Giuseppe Meazza,Otros
+2006-2007,Quarter-finals,Tue,,PSV Eindhoven,Países bajos,0–3,Inglaterra,Liverpool,PSV Stadion,Otros
+2006-2007,Quarter-finals,Wed,,Chelsea,Inglaterra,1–1,España,Valencia,Stamford Bridge,Frank de Bleeckere
+2006-2007,Quarter-finals,Wed,,Roma,Italia,2–1,Inglaterra,Manchester Utd,Stadio Olimpico,Otros
+2006-2007,Quarter-finals,Tue,,Manchester Utd,Inglaterra,7–1,Italia,Roma,Old Trafford,Otros
+2006-2007,Quarter-finals,Tue,,Valencia,España,1–2,Inglaterra,Chelsea,Estadi de Mestalla,Kyros Vassaras
+2006-2007,Quarter-finals,Wed,,Bayern Munich,Alemania,0–2,Italia,Milan,Fußball Arena München,Mejuto González
+2006-2007,Quarter-finals,Wed,,Liverpool,Inglaterra,1–0,Países bajos,PSV Eindhoven,Anfield,Otros
+2006-2007,Semi-finals,Tue,,Manchester Utd,Inglaterra,3–2,Italia,Milan,Old Trafford,Kyros Vassaras
+2006-2007,Semi-finals,Wed,,Chelsea,Inglaterra,1–0,Inglaterra,Liverpool,Stamford Bridge,Otros
+2006-2007,Semi-finals,Tue,,Liverpool,Inglaterra,(4)1–0(1),Inglaterra,Chelsea,Anfield,Mejuto González
+2006-2007,Semi-finals,Wed,,Milan,Italia,3–0,Inglaterra,Manchester Utd,Stadio Giuseppe Meazza,Frank de Bleeckere
+2006-2007,Final,Wed,,Milan,Italia,2–1,Inglaterra,Liverpool,OAKA Spiros Louis (Neutral Site),Otros
+2005-2006,Round of 16,Tue,,Benfica,Portugal,1–0,Inglaterra,Liverpool,Estádio do Sport Lisboa e Benfica,Otros
+2005-2006,Round of 16,Tue,,Real Madrid,España,0–1,Inglaterra,Arsenal,Estadio Santiago Bernabéu,Otros
+2005-2006,Round of 16,Tue,,Bayern Munich,Alemania,1–1,Italia,Milan,Fußball Arena München,Frank de Bleeckere
+2005-2006,Round of 16,Tue,,PSV Eindhoven,Países bajos,0–1,Francia,Lyon,PSV Stadion,Kyros Vassaras
+2005-2006,Round of 16,Wed,,Ajax,Países bajos,2–2,Italia,Inter,Amsterdam ArenA,Wolfgang Stark
+2005-2006,Round of 16,Wed,,Rangers,Escocia,2–2,España,Villarreal,Ibrox Stadium,Otros
+2005-2006,Round of 16,Wed,,Chelsea,Inglaterra,1–2,España,Barcelona,Stamford Bridge,Otros
+2005-2006,Round of 16,Wed,,Werr Bremen,Alemania,3–2,Italia,Juventus,Weserstadion,Mejuto González
+2005-2006,Round of 16,Tue,,Barcelona,España,1–1,Inglaterra,Chelsea,Camp Nou,Otros
+2005-2006,Round of 16,Tue,,Juventus,Italia,2–1,Alemania,Werr Bremen,Delle Alpi,Otros
+2005-2006,Round of 16,Tue,,Villarreal,España,1–1,Escocia,Rangers,Estadio El Madrigal,Otros
+2005-2006,Round of 16,Wed,,Arsenal,Inglaterra,0–0,España,Real Madrid,Highbury,Otros
+2005-2006,Round of 16,Wed,,Lyon,Francia,4–0,Países bajos,PSV Eindhoven,Stade de Gerland,Otros
+2005-2006,Round of 16,Wed,,Milan,Italia,4–1,Alemania,Bayern Munich,Stadio Giuseppe Meazza,Otros
+2005-2006,Round of 16,Wed,,Liverpool,Inglaterra,0–2,Portugal,Benfica,Anfield,Otros
+2005-2006,Round of 16,Tue,,Inter,Italia,1–0,Países bajos,Ajax,Stadio Giuseppe Meazza,Otros
+2005-2006,Quarter-finals,Tue,,Arsenal,Inglaterra,2–0,Italia,Juventus,Highbury,Otros
+2005-2006,Quarter-finals,Tue,,Benfica,Portugal,0–0,España,Barcelona,Estádio do Sport Lisboa e Benfica,Otros
+2005-2006,Quarter-finals,Wed,,Inter,Italia,2–1,España,Villarreal,Stadio Giuseppe Meazza,Otros
+2005-2006,Quarter-finals,Wed,,Lyon,Francia,0–0,Italia,Milan,Stade de Gerland,Otros
+2005-2006,Quarter-finals,Tue,,Villarreal,España,1–0,Italia,Inter,Estadio El Madrigal,Kyros Vassaras
+2005-2006,Quarter-finals,Tue,,Milan,Italia,3–1,Francia,Lyon,Stadio Giuseppe Meazza,Otros
+2005-2006,Quarter-finals,Wed,,Barcelona,España,2–0,Portugal,Benfica,Camp Nou,Otros
+2005-2006,Quarter-finals,Wed,,Juventus,Italia,0–0,Inglaterra,Arsenal,Delle Alpi,Otros
+2005-2006,Semi-finals,Tue,,Milan,Italia,0–1,España,Barcelona,Stadio Giuseppe Meazza,Otros
+2005-2006,Semi-finals,Wed,,Arsenal,Inglaterra,1–0,España,Villarreal,Highbury,Otros
+2005-2006,Semi-finals,Tue,,Villarreal,España,0–0,Inglaterra,Arsenal,Estadio El Madrigal,Otros
+2005-2006,Semi-finals,Wed,,Barcelona,España,0–0,Italia,Milan,Camp Nou,Otros
+2005-2006,Final,Wed,,Barcelona,España,2–1,Inglaterra,Arsenal,Stade de France (Neutral Site),Otros
+2004-2005,Round of 16,Tue,,Liverpool,Inglaterra,3–1,Alemania,Leverkusen,Anfield,Kyros Vassaras
+2004-2005,Round of 16,Tue,,Real Madrid,España,1–0,Italia,Juventus,Estadio Santiago Bernabéu,Otros
+2004-2005,Round of 16,Tue,,PSV Eindhoven,Países bajos,1–0,Francia,Monaco,PSV Stadion,Otros
+2004-2005,Round of 16,Tue,,Bayern Munich,Alemania,3–1,Inglaterra,Arsenal,Olympiastadion,Otros
+2004-2005,Round of 16,Wed,,Porto,Portugal,1–1,Italia,Inter,Estádio do Dragão,Otros
+2004-2005,Round of 16,Wed,,Barcelona,España,2–1,Inglaterra,Chelsea,Camp Nou,Otros
+2004-2005,Round of 16,Wed,,Manchester Utd,Inglaterra,0–1,Italia,Milan,Old Trafford,Mejuto González
+2004-2005,Round of 16,Wed,,Werr Bremen,Alemania,0–3,Francia,Lyon,Weserstadion,Frank de Bleeckere
+2004-2005,Round of 16,Tue,,Milan,Italia,1–0,Inglaterra,Manchester Utd,Stadio Giuseppe Meazza,Otros
+2004-2005,Round of 16,Tue,,Chelsea,Inglaterra,4–2,España,Barcelona,Stamford Bridge,Otros
+2004-2005,Round of 16,Tue,,Lyon,Francia,7–2,Alemania,Werr Bremen,Stade de Gerland,Otros
+2004-2005,Round of 16,Wed,,Arsenal,Inglaterra,1–0,Alemania,Bayern Munich,Highbury,Otros
+2004-2005,Round of 16,Wed,,Juventus,Italia,2–0,España,Real Madrid,Delle Alpi,Otros
+2004-2005,Round of 16,Wed,,Monaco,Francia,0–2,Países bajos,PSV Eindhoven,Stade Louis II,Otros
+2004-2005,Round of 16,Wed,,Leverkusen,Alemania,1–3,Inglaterra,Liverpool,BayArena,Otros
+2004-2005,Round of 16,Tue,,Inter,Italia,3–1,Portugal,Porto,Stadio Giuseppe Meazza,Otros
+2004-2005,Quarter-finals,Tue,,Lyon,Francia,1–1,Países bajos,PSV Eindhoven,Stade de Gerland,Otros
+2004-2005,Quarter-finals,Tue,,Liverpool,Inglaterra,2–1,Italia,Juventus,Anfield,Frank de Bleeckere
+2004-2005,Quarter-finals,Wed,,Milan,Italia,2–0,Italia,Inter,Stadio Giuseppe Meazza,Otros
+2004-2005,Quarter-finals,Wed,,Chelsea,Inglaterra,4–2,Alemania,Bayern Munich,Stamford Bridge,Otros
+2004-2005,Quarter-finals,Tue,,Bayern Munich,Alemania,3–2,Inglaterra,Chelsea,Olympiastadion,Mejuto González
+2004-2005,Quarter-finals,Tue,,Inter,Italia,0–3,Italia,Milan,Stadio Giuseppe Meazza,Otros
+2004-2005,Quarter-finals,Wed,,Juventus,Italia,0–0,Inglaterra,Liverpool,Delle Alpi,Otros
+2004-2005,Quarter-finals,Wed,,PSV Eindhoven,Países bajos,(4)1–1(2),Francia,Lyon,PSV Stadion,Otros
+2004-2005,Semi-finals,Tue,,Milan,Italia,2–0,Países bajos,PSV Eindhoven,Stadio Giuseppe Meazza,Kyros Vassaras
+2004-2005,Semi-finals,Wed,,Chelsea,Inglaterra,0–0,Inglaterra,Liverpool,Stamford Bridge,Otros
+2004-2005,Semi-finals,Tue,,Liverpool,Inglaterra,1–0,Inglaterra,Chelsea,Anfield,Otros
+2004-2005,Semi-finals,Wed,,PSV Eindhoven,Países bajos,3–1,Italia,Milan,PSV Stadion,Otros
+2004-2005,Final,Wed,,Milan,Italia,(2)3–3(3),Inglaterra,Liverpool,Atatürk Olimpiyat Stadium (Neutral Site),Mejuto González
+2003-2004,Round of 16,Tue,,Celta Vigo,España,2–3,Inglaterra,Arsenal,Balaídos,Otros
+2003-2004,Round of 16,Tue,,Bayern Munich,Alemania,1–1,España,Real Madrid,Olympiastadion,Otros
+2003-2004,Round of 16,Tue,,Sparta Prague,República checa,0–0,Italia,Milan,Stadion Letná,Otros
+2003-2004,Round of 16,Tue,,Loko Moscow,Rusia,2–1,Francia,Monaco,Stadion Lokomotiv,Mejuto González
+2003-2004,Round of 16,Wed,,Porto,Portugal,2–1,Inglaterra,Manchester Utd,Estádio do Dragão,Otros
+2003-2004,Round of 16,Wed,,Real Sociedad,España,0–1,Francia,Lyon,Anoeta,Otros
+2003-2004,Round of 16,Wed,,Stuttgart,Alemania,0–1,Inglaterra,Chelsea,VfB Arena,Kyros Vassaras
+2003-2004,Round of 16,Wed,,La Coruña,España,1–0,Italia,Juventus,Estadio Municipal de Riazor,Otros
+2003-2004,Round of 16,Tue,,Lyon,Francia,1–0,España,Real Sociedad,Stade de Gerland,Otros
+2003-2004,Round of 16,Tue,,Manchester Utd,Inglaterra,1–1,Portugal,Porto,Old Trafford,Otros
+2003-2004,Round of 16,Tue,,Juventus,Italia,0–1,España,La Coruña,Delle Alpi,Otros
+2003-2004,Round of 16,Tue,,Chelsea,Inglaterra,0–0,Alemania,Stuttgart,Stamford Bridge,Otros
+2003-2004,Round of 16,Wed,,Arsenal,Inglaterra,2–0,España,Celta Vigo,Highbury,Otros
+2003-2004,Round of 16,Wed,,Milan,Italia,4–1,República checa,Sparta Prague,Stadio Giuseppe Meazza,Otros
+2003-2004,Round of 16,Wed,,Monaco,Francia,1–0,Rusia,Loko Moscow,Stade Louis II,Otros
+2003-2004,Round of 16,Wed,,Real Madrid,España,1–0,Alemania,Bayern Munich,Estadio Santiago Bernabéu,Otros
+2003-2004,Quarter-finals,Tue,,Porto,Portugal,2–0,Francia,Lyon,Estádio do Dragão,Otros
+2003-2004,Quarter-finals,Tue,,Milan,Italia,4–1,España,La Coruña,Stadio Giuseppe Meazza,Otros
+2003-2004,Quarter-finals,Wed,,Chelsea,Inglaterra,1–1,Inglaterra,Arsenal,Stamford Bridge,Mejuto González
+2003-2004,Quarter-finals,Wed,,Real Madrid,España,4–2,Francia,Monaco,Estadio Santiago Bernabéu,Otros
+2003-2004,Quarter-finals,Tue,,Monaco,Francia,3–1,España,Real Madrid,Stade Louis II,Otros
+2003-2004,Quarter-finals,Tue,,Arsenal,Inglaterra,1–2,Inglaterra,Chelsea,Highbury,Otros
+2003-2004,Quarter-finals,Wed,,Lyon,Francia,2–2,Portugal,Porto,Stade de Gerland,Otros
+2003-2004,Quarter-finals,Wed,,La Coruña,España,4–0,Italia,Milan,Estadio Municipal de Riazor,Otros
+2003-2004,Semi-finals,Tue,,Monaco,Francia,3–1,Inglaterra,Chelsea,Stade Louis II,Otros
+2003-2004,Semi-finals,Wed,,Porto,Portugal,0–0,España,La Coruña,Estádio do Dragão,Otros
+2003-2004,Semi-finals,Tue,,La Coruña,España,0–1,Portugal,Porto,Estadio Municipal de Riazor,Otros
+2003-2004,Semi-finals,Wed,,Chelsea,Inglaterra,2–2,Francia,Monaco,Stamford Bridge,Otros
+2003-2004,Final,Wed,,Monaco,Francia,0–3,Portugal,Porto,Arena AufSchalke (Neutral Site),Otros
