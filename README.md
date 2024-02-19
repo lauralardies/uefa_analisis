@@ -31,7 +31,7 @@ Seguidamente accedes a la carpeta webscraping, donde se encuentra el archivo que
 cd webscraping
 ```
 
-Por último, una vez en la ruta correcta, ejecutamos el archivo de webscraping que queramos (equipos.py, overall.py o partidos.py.)
+Por último, una vez en la ruta correcta, ejecutamos el archivo de webscraping que queramos (`equipos.py`, `overall.py` o `partidos.py`.)
 
 ```
 python archivo.py
