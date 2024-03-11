@@ -9,7 +9,7 @@ Mediante este proyecto buscamos analizar los datos de temporadas anteriores del 
 ## Archivos
 
 Todos los elementos de este repositorio se encuentran en la carpeta `UEFA`, que a su vez contiene:
-- Carpeta `analisis`, donde realizamos el análisis de los datos. Hay dos archivos, uno en el que realizamos la limpieza y análisis de datos mientras que en el segundo archivo hacemos una regresión lineal, donde predecimos el número de goles.
+- Carpeta `analisis`, donde realizamos el análisis de los datos. Hay varios archivos, uno en el que realizamos la limpieza y análisis de datos mientras que en otro archivo hacemos una regresión lineal, donde predecimos el número de goles. También encontramos un archivo que aplica algortimos de clasterización y otro en el que se realizan series temporales para predecir el resultado.
 - Carpeta `data` que contiene archivos CSV donde se guarda la información que usamos para analizar.
 - Carpeta `scalers` que empleamos para guardar un archivo pickle que se genera al normalizar los datos para la regresión lineal.
 - Carpeta `webscraping`, donde obtenemos los datos de temporadas anteriores del campeonato y los almacenamos en un CSV que guardamos en la carpeta `data`. Los datos los adquirimos haciendo web scraping de esta [web](https://fbref.com), una fuente para las estadísticas del fútbol.
