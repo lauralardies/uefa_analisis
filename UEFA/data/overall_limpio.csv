@@ -1,4 +1,36 @@
 Season,Rk,Squad,Country,MP,W,D,L,GF,GA,GD,Pts,Attendance,Top Team Scorer,Goalkeeper,Top Team Scorer Goals
+2023-2024,QF,Manchester City,Inglaterra,8.0,8.0,0.0,0.0,24.0,9.0,15.0,24.0,51047.0,Erling Haaland,Ederson,6.0
+2023-2024,QF,Real Madrid,España,8.0,7.0,1.0,0.0,18.0,8.0,10.0,22.0,70851.0,Jude Bellingham,"Kepa Arrizabalaga,Andriy Lunin",4.0
+2023-2024,QF,Bayern Munich,Alemania,8.0,6.0,1.0,1.0,15.0,7.0,8.0,19.0,75000.0,Harry Kane,Manuel Neuer,6.0
+2023-2024,QF,Atlético Madrid,España,8.0,5.0,2.0,1.0,19.0,8.0,11.0,17.0,63844.0,Antoine Griezmann,Jan Oblak,6.0
+2023-2024,QF,Arsenal,Inglaterra,8.0,5.0,1.0,2.0,17.0,5.0,12.0,16.0,59782.0,Gabriel Jesus,David Raya,4.0
+2023-2024,QF,Barcelona,España,8.0,5.0,1.0,2.0,16.0,8.0,8.0,16.0,44058.0,"Robert Lewandowski,Ferrán Torres... ",Marc-André ter Stegen,3.0
+2023-2024,QF,Dortmund,Alemania,8.0,4.0,3.0,1.0,10.0,5.0,5.0,15.0,81365.0,"Marco Reus,Karim Adeyemi",Gregor Kobel,2.0
+2023-2024,QF,Paris S-G,Francia,8.0,4.0,2.0,2.0,13.0,9.0,4.0,14.0,46553.0,Kylian Mbappé,Gianluigi Donnarumma,6.0
+2023-2024,R16,Porto,Portugal,8.0,5.0,0.0,3.0,16.0,9.0,7.0,15.0,47944.0,Galeno,Diogo Costa,5.0
+2023-2024,R16,Inter,Italia,8.0,4.0,3.0,1.0,10.0,7.0,3.0,15.0,70279.0,"Alexis Sánchez,Marko Arnautović... ",Yann Sommer,2.0
+2023-2024,R16,RB Leipzig,Alemania,8.0,4.0,1.0,3.0,14.0,12.0,2.0,13.0,43949.0,Loïs Openda,Janis Blaswich,4.0
+2023-2024,R16,Lazio,Italia,8.0,4.0,1.0,3.0,8.0,10.0,-2.0,13.0,47701.0,Ciro Immobile,Ivan Provedel,4.0
+2023-2024,R16,Real Sociedad,España,8.0,3.0,3.0,2.0,8.0,6.0,2.0,12.0,36790.0,Brais Méndez,Álex Remiro,3.0
+2023-2024,R16,Napoli,Italia,8.0,3.0,2.0,3.0,12.0,13.0,-1.0,11.0,45367.0,Victor Osimhen,Alex Meret,2.0
+2023-2024,R16,PSV Eindhoven,Países bajos,8.0,2.0,4.0,2.0,9.0,13.0,-4.0,10.0,34589.0,Luuk de Jong,Walter Benítez,3.0
+2023-2024,R16,FC Copenhagen,Dinamarca,8.0,2.0,2.0,4.0,10.0,14.0,-4.0,8.0,35592.0,"Mohamed Elyounoussi,Lukas Lerager",Kamil Grabara,3.0
+2023-2024,GR,Shakhtar,Ucrania,6.0,3.0,0.0,3.0,10.0,12.0,-2.0,9.0,47695.0,Danylo Sikan,Dmytro Riznyk,4.0
+2023-2024,GR,Milan,Italia,6.0,2.0,2.0,2.0,5.0,8.0,-3.0,8.0,72212.0,Samuel Chukwueze,Mike Maignan,2.0
+2023-2024,GR,Lens,Francia,6.0,2.0,2.0,2.0,6.0,11.0,-5.0,8.0,37543.0,"Angelo Fulgini,Elye Wahi",Brice Samba,2.0
+2023-2024,GR,Feyenoord,Países bajos,6.0,2.0,0.0,4.0,9.0,10.0,-1.0,6.0,44010.0,Santiago Giménez,Justin Bijlow,2.0
+2023-2024,GR,Newcastle Utd,Inglaterra,6.0,1.0,2.0,3.0,6.0,7.0,-1.0,5.0,52023.0,"Dan Burn,Fabian Schär... ",Nick Pope,1.0
+2023-2024,GR,Galatasaray,Turquía,6.0,1.0,2.0,3.0,10.0,13.0,-3.0,5.0,50140.0,"Mauro Icardi,Hakim Ziyech... ",Fernando Muslera,2.0
+2023-2024,GR,Manchester Utd,Inglaterra,6.0,1.0,1.0,4.0,12.0,15.0,-3.0,4.0,73175.0,Rasmus Højlund,André Onana,5.0
+2023-2024,GR,Benfica,Portugal,6.0,1.0,1.0,4.0,7.0,11.0,-4.0,4.0,56621.0,João Mário,Anatolii Trubin,3.0
+2023-2024,GR,RB Salzburg,Austria,6.0,1.0,1.0,4.0,4.0,8.0,-4.0,4.0,28477.0,Oscar Gloukh,Alexander Schlager,2.0
+2023-2024,GR,Young Boys,Suiza,6.0,1.0,1.0,4.0,7.0,13.0,-6.0,4.0,31500.0,Meschak Elia,Anthony Racioppi,2.0
+2023-2024,GR,Braga,Portugal,6.0,1.0,1.0,4.0,6.0,12.0,-6.0,4.0,21366.0,"Bruma,Álvaro djaló",Matheus,2.0
+2023-2024,GR,Celtic,Escocia,6.0,1.0,1.0,4.0,5.0,15.0,-10.0,4.0,56099.0,"Kyogo Furuhashi,Luis Enrique Palma",Joe Hart,2.0
+2023-2024,GR,Antwerp,Bélgica,6.0,1.0,0.0,5.0,6.0,17.0,-11.0,3.0,13570.0,"Vincent Janssen,Arbnor Muja... ",Jean Butez,1.0
+2023-2024,GR,Union Berlin,Alemania,6.0,0.0,2.0,4.0,6.0,10.0,-4.0,2.0,72976.0,Sheraldo Becker,Frederik Rønnow,2.0
+2023-2024,GR,Sevilla,España,6.0,0.0,2.0,4.0,7.0,12.0,-5.0,2.0,34181.0,"Sergio Ramos,Nemanja Gudelj... ",Marko Dmitrović,2.0
+2023-2024,GR,Red Star,Serbia,6.0,0.0,1.0,5.0,7.0,15.0,-8.0,1.0,46202.0,Osman Bukari,Omri Glazer,2.0
 2022-2023,W,Manchester City,Inglaterra,13.0,8.0,5.0,0.0,32.0,5.0,27.0,29.0,63639.0,Erling Haaland,Ederson,12.0
 2022-2023,F,Inter,Italia,13.0,7.0,3.0,3.0,19.0,11.0,8.0,24.0,71415.0,Edin Džeko,André Onana,4.0
 2022-2023,SF,Real Madrid,España,12.0,8.0,2.0,2.0,26.0,13.0,13.0,26.0,58761.0,Vinicius Júnior,Thibaut Courtois,7.0

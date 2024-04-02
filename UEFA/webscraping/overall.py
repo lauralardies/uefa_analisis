@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 
 # URLs de diferentes temporadas de UEFA Champions League
 urls = [
+    'https://fbref.com/en/comps/8/2023-2024/2023-2024-Champions-League-Stats',
     'https://fbref.com/en/comps/8/2022-2023/2022-2023-Champions-League-Stats',
     'https://fbref.com/en/comps/8/2021-2022/2021-2022-Champions-League-Stats',
     'https://fbref.com/en/comps/8/2020-2021/2020-2021-Champions-League-Stats',
@@ -50,8 +51,8 @@ for url in urls:
     for fila in filas:
         # Obtenemos las celdas de la fila
         celdas = fila.find_all(['th', 'td'])
-        # Eliminamos las celdas que contienen 'xg' en el atributo 'data-stat' ya que no están en todas las temporadas
-        celdas = [celda for celda in celdas if 'xg' not in celda.get('data-stat')]
+        # Eliminamos las celdas que contienen 'xg' y que son 'last_5' en el atributo 'data-stat' ya que no están en todas las temporadas
+        celdas = [celda for celda in celdas if 'xg' not in celda.get('data-stat') and celda.get('data-stat') != 'last_5']
         # Extraemos el texto de cada celda y lo agregamos a la lista de datos
         datos_fila = [celda.get_text(strip=True) for celda in celdas]
         # Si la fila contiene datos, agregamos temporada y fila a la lista de datos totales
