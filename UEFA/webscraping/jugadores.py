@@ -41,9 +41,11 @@ for url in urls:
     # Creamos un objeto BeautifulSoup
     soup = BeautifulSoup(html, 'html.parser')
 
-    # Buscamos la sección de texto que contiene la información de las fases eliminatorias
-    html = soup.find('span', attrs={'data-label': 'Squad Standard Stats'}).find_next('table', id='stats_squads_standard_for')
-     
+    # Buscamos la sección de texto que contiene la información de los jugadores
+    container = soup.find('div', {'class': lambda x: x and 'table_container' in x, 'id': 'div_stats_standard'})
+    print(container)
+    html = container.find('table', {'class': 'stats_table'})
+
     # Obtenemos las filas de la tabla
     filas = html.find_all('tr')
     # Eliminamos la primera fila que no nos interesa
@@ -64,18 +66,18 @@ for url in urls:
                 # Agregamos la temporada al encabezado
                 datos_fila.insert(0, 'Season')
             else:
-                if datos_fila[:16] == datos_totales[0][1:]:
+                if datos_fila[:19] == datos_totales[0][1:]:
                     # Si la fila ya está en la lista de datos totales, pasa a la siguiente fila
                     continue
                 else:
                     # Si la fila no coincide con la primera fila de datos totales, agregamos la temporada a la fila
                     datos_fila.insert(0, temporada)
             # Agregamos la fila a la lista de datos totales 
-            # Solo añadimos los primeros 16 elementos de la lista (+ la temporada que ya hemos añadido), ya que el resto no nos interesa
-            datos_totales.append(datos_fila[:17])
+            # Solo añadimos los primeros 19 elementos de la lista (+ la temporada que ya hemos añadido), ya que el resto no nos interesa
+            datos_totales.append(datos_fila[:20])
 
 # Escribimos los datos en un archivo CSV
-ruta_csv = '../data/equipos.csv'
+ruta_csv = '../data/jugadores.csv'
 with open(ruta_csv, 'w', newline='', encoding='utf-8') as archivo_csv:
     escritor_csv = csv.writer(archivo_csv)
     for fila in datos_totales:
