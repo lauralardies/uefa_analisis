@@ -42,9 +42,7 @@ for url in urls:
     soup = BeautifulSoup(html, 'html.parser')
 
     # Buscamos la sección de texto que contiene la información de los jugadores
-    container = soup.find('div', {'class': lambda x: x and 'table_container' in x, 'id': 'div_stats_standard'})
-    print(container)
-    html = container.find('table', {'class': 'stats_table'})
+    html = soup.find('div',attrs={'data-label': 'Player Standard Stats'}).find_next('table', id='stats_standard')
 
     # Obtenemos las filas de la tabla
     filas = html.find_all('tr')
