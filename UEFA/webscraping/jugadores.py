@@ -11,20 +11,6 @@ urls = [
     'https://fbref.com/en/comps/8/2019-2020/stats/2019-2020-Champions-League-Stats',
     'https://fbref.com/en/comps/8/2018-2019/stats/2018-2019-Champions-League-Stats',
     'https://fbref.com/en/comps/8/2017-2018/stats/2017-2018-Champions-League-Stats',
-    'https://fbref.com/en/comps/8/2016-2017/stats/2016-2017-Champions-League-Stats',
-    'https://fbref.com/en/comps/8/2015-2016/stats/2015-2016-Champions-League-Stats',
-    'https://fbref.com/en/comps/8/2014-2015/stats/2014-2015-Champions-League-Stats',
-    'https://fbref.com/en/comps/8/2013-2014/stats/2013-2014-Champions-League-Stats',
-    'https://fbref.com/en/comps/8/2012-2013/stats/2012-2013-Champions-League-Stats',
-    'https://fbref.com/en/comps/8/2011-2012/stats/2011-2012-Champions-League-Stats',
-    'https://fbref.com/en/comps/8/2010-2011/stats/2010-2011-Champions-League-Stats',
-    'https://fbref.com/en/comps/8/2009-2010/stats/2009-2010-Champions-League-Stats',
-    'https://fbref.com/en/comps/8/2008-2009/stats/2008-2009-Champions-League-Stats',
-    'https://fbref.com/en/comps/8/2007-2008/stats/2007-2008-Champions-League-Stats',
-    'https://fbref.com/en/comps/8/2006-2007/stats/2006-2007-Champions-League-Stats',
-    'https://fbref.com/en/comps/8/2005-2006/stats/2005-2006-Champions-League-Stats',
-    'https://fbref.com/en/comps/8/2004-2005/stats/2004-2005-Champions-League-Stats',
-    'https://fbref.com/en/comps/8/2003-2004/stats/2003-2004-Champions-League-Stats'
     ]
 
 # Creamos una lista para almacenar los datos de todas las temporadas
