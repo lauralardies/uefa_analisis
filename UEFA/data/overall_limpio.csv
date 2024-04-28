@@ -85,7 +85,7 @@ Season,Rk,Squad,Country,MP,W,D,L,GF,GA,GD,Pts,Attendance,Top Team Scorer,Goalkee
 2021-2022,GR,Barcelona,Spain,6.0,2.0,1.0,3.0,2.0,9.0,-7.0,7.0,45092.0,"Gerard Piqué,Ansu Fati",Marc-André ter Stegen,1.0
 2021-2022,GR,Sevilla,Spain,6.0,1.0,3.0,2.0,5.0,5.0,0.0,6.0,25468.0,Ivan Rakitić,Yassine Bounou,2.0
 2021-2022,GR,Atalanta,Italy,6.0,1.0,3.0,2.0,12.0,13.0,-1.0,6.0,11556.0,Duván Zapata,Juan Musso,3.0
-2021-2022,GR,ruZen,Italy,6.0,1.0,2.0,3.0,10.0,10.0,0.0,5.0,21135.0,"Claudinho,Sardar Azmoun",Stanislav Kritsyuk,2.0
+2021-2022,GR,Zenit,Russia,6.0,1.0,2.0,3.0,10.0,10.0,0.0,5.0,21135.0,"Claudinho,Sardar Azmoun",Stanislav Kritsyuk,2.0
 2021-2022,GR,Young Boys,Switzerland,6.0,1.0,2.0,3.0,7.0,12.0,-5.0,5.0,29879.0,Jordan Pefok,"Guillaume Faivre,David von Ballmoos",2.0
 2021-2022,GR,Wolfsburg,Germany,6.0,1.0,2.0,3.0,5.0,10.0,-5.0,5.0,11463.0,"Lukas Nmecha,Renato Steffen",Koen Casteels,2.0
 2021-2022,GR,Porto,Portugal,6.0,1.0,2.0,3.0,4.0,11.0,-7.0,5.0,31493.0,Luis Díaz,Diogo Costa,2.0
@@ -109,8 +109,8 @@ Season,Rk,Squad,Country,MP,W,D,L,GF,GA,GD,Pts,Attendance,Top Team Scorer,Goalkee
 2020-2021,GR,Loko Moscow,Russia,6.0,0.0,3.0,3.0,5.0,10.0,-5.0,3.0,7701.0,Anton Miranchuk,Guilherme Marinato,3.0
 2020-2021,GR,Başakşehir,Türkiye,6.0,1.0,0.0,5.0,7.0,18.0,-11.0,3.0,233.0,İrfan Kahveci,Mert Günok,3.0
 2020-2021,GR,Midtjylland,Denmark,6.0,0.0,2.0,4.0,4.0,13.0,-9.0,2.0,88.0,Alexander Scholz,Jesper Hansen,2.0
-2020-2021,GR,frRenn,Spain,6.0,0.0,1.0,5.0,3.0,11.0,-8.0,1.0,1658.0,Serhou Guirassy,Alfred Gomis,2.0
-2020-2021,GR,ruZen,Italy,6.0,0.0,1.0,5.0,4.0,13.0,-9.0,1.0,14990.0,"Artem Dzyuba,Aleksandr Erokhin... ",Mikhail Kerzhakov,1.0
+2020-2021,GR,Rennes,France,6.0,0.0,1.0,5.0,3.0,11.0,-8.0,1.0,1658.0,Serhou Guirassy,Alfred Gomis,2.0
+2020-2021,GR,Zenit,Russia,6.0,0.0,1.0,5.0,4.0,13.0,-9.0,1.0,14990.0,"Artem Dzyuba,Aleksandr Erokhin... ",Mikhail Kerzhakov,1.0
 2020-2021,GR,Ferencváros,Hungary,6.0,0.0,1.0,5.0,5.0,17.0,-12.0,1.0,8234.0,Franck Boli,Dénes Dibusz,2.0
 2019-2020,W,Bayern Munich,Germany,11.0,11.0,0.0,0.0,43.0,8.0,35.0,33.0,50000.0,Robert Lewandowski,Manuel Neuer,15.0
 2019-2020,F,Paris S-G,France,11.0,8.0,1.0,2.0,25.0,6.0,19.0,25.0,28058.0,"Mauro Icardi,Kylian Mbappé",Keylor Navas,5.0
@@ -132,7 +132,7 @@ Season,Rk,Squad,Country,MP,W,D,L,GF,GA,GD,Pts,Attendance,Top Team Scorer,Goalkee
 2019-2020,GR,RB Salzburg,Austria,6.0,2.0,1.0,3.0,16.0,13.0,3.0,7.0,29520.0,Erling Haaland,Cican Stankovic,8.0
 2019-2020,GR,Inter,Italy,6.0,2.0,1.0,3.0,10.0,9.0,1.0,7.0,62540.0,Lautaro Martínez,Samir Handanović,5.0
 2019-2020,GR,Benfica,Portugal,6.0,2.0,1.0,3.0,10.0,11.0,-1.0,7.0,46576.0,Pizzi,Odisseas Vlachodimos,3.0
-2019-2020,GR,ruZen,Italy,6.0,2.0,1.0,3.0,7.0,9.0,-2.0,7.0,51106.0,"Sardar Azmoun,Artem Dzyuba",Mikhail Kerzhakov,2.0
+2019-2020,GR,Zenit,Russia,6.0,2.0,1.0,3.0,7.0,9.0,-2.0,7.0,51106.0,"Sardar Azmoun,Artem Dzyuba",Mikhail Kerzhakov,2.0
 2019-2020,GR,Leverkusen,Germany,6.0,2.0,0.0,4.0,5.0,9.0,-4.0,6.0,28098.0,"Sven Bender,Kevin Volland",Lukáš Hrádecký,1.0
 2019-2020,GR,Shakhtar,Ukraine,6.0,1.0,3.0,2.0,8.0,13.0,-5.0,6.0,28246.0,"Júnior Moraes,Manor Solomon",Andriy Pyatov,2.0
 2019-2020,GR,Dinamo Zagreb,Croatia,6.0,1.0,2.0,3.0,10.0,13.0,-3.0,5.0,28855.0,Mislav Oršić,Dominik Livaković,4.0
@@ -247,7 +247,7 @@ Season,Rk,Squad,Country,MP,W,D,L,GF,GA,GD,Pts,Attendance,Top Team Scorer,Goalkee
 2015-2016,QF,Wolfsburg,Germany,10.0,7.0,0.0,3.0,15.0,11.0,4.0,21.0,23951.0,Julian Draxler,Diego Benaglio,3.0
 2015-2016,QF,Paris S-G,France,10.0,6.0,2.0,2.0,18.0,6.0,12.0,20.0,46322.0,Zlatan Ibrahimović,Kevin Trapp,5.0
 2015-2016,QF,Benfica,Portugal,10.0,5.0,2.0,3.0,15.0,12.0,3.0,17.0,45581.0,Nicolás Gaitán,Júlio César,4.0
-2015-2016,R16,ruZen,Italy,8.0,5.0,0.0,3.0,14.0,9.0,5.0,15.0,17575.0,Artem Dzyuba,Yuri Lodygin,6.0
+2015-2016,R16,Zenit,Russia,8.0,5.0,0.0,3.0,14.0,9.0,5.0,15.0,17575.0,Artem Dzyuba,Yuri Lodygin,6.0
 2015-2016,R16,Chelsea,England,8.0,4.0,1.0,3.0,15.0,7.0,8.0,13.0,40153.0,Willian,Asmir Begović,5.0
 2015-2016,R16,Dynamo Kyiv,Ukraine,8.0,3.0,3.0,2.0,9.0,7.0,2.0,12.0,41706.0,"Andriy Yarmolenko,Vitaliy Buyalskyi",Oleksandr Shovkovskiy,2.0
 2015-2016,R16,Juventus,Italy,8.0,3.0,3.0,2.0,10.0,9.0,1.0,12.0,39241.0,"Álvaro Morata,Mario Mandžukić",Gianluigi Buffon,2.0
@@ -287,7 +287,7 @@ Season,Rk,Squad,Country,MP,W,D,L,GF,GA,GD,Pts,Attendance,Top Team Scorer,Goalkee
 2014-2015,R16,Shakhtar,Ukraine,8.0,2.0,4.0,2.0,15.0,11.0,4.0,10.0,32516.0,Luiz Adriano,Andriy Pyatov,9.0
 2014-2015,R16,Manchester City,England,8.0,2.0,2.0,4.0,10.0,11.0,-1.0,8.0,43060.0,Sergio Agüero,Joe Hart,6.0
 2014-2015,R16,Basel,Switzerland,8.0,2.0,2.0,4.0,8.0,13.0,-5.0,8.0,35434.0,Derlis González,Tomáš Vaclík,3.0
-2014-2015,GR,ruZen,Italy,10.0,5.0,1.0,4.0,11.0,7.0,4.0,16.0,14983.0,"Danny,Hulk... ",Yuri Lodygin,1.0
+2014-2015,GR,Zenit,Russia,10.0,5.0,1.0,4.0,11.0,7.0,4.0,16.0,14983.0,"Danny,Hulk... ",Yuri Lodygin,1.0
 2014-2015,GR,NK Maribor,Slovenia,12.0,3.0,6.0,3.0,11.0,16.0,-5.0,15.0,12554.0,"Damjan Bohar,Agim Ibraimi... ",Jasmin Handanović,1.0
 2014-2015,GR,Ludogorets,Bulgaria,12.0,3.0,4.0,5.0,13.0,18.0,-5.0,13.0,35925.0,Dani Abalo,Vladislav Stoyanov,2.0
 2014-2015,GR,Malmö,Sweden,12.0,4.0,1.0,7.0,13.0,21.0,-8.0,13.0,20500.0,Markus Rosenberg,Robin Olsen,3.0
@@ -311,7 +311,7 @@ Season,Rk,Squad,Country,MP,W,D,L,GF,GA,GD,Pts,Attendance,Top Team Scorer,Goalkee
 2013-2014,QF,Barcelona,Spain,10.0,5.0,3.0,2.0,21.0,8.0,13.0,18.0,76033.0,Lionel Messi,Víctor Valdés,8.0
 2013-2014,QF,Manchester Utd,England,10.0,5.0,3.0,2.0,17.0,9.0,8.0,18.0,74594.0,Robin van Persie,David de Gea,4.0
 2013-2014,QF,Dortmund,Germany,10.0,5.0,2.0,3.0,18.0,13.0,5.0,17.0,65829.0,Robert Lewandowski,Roman Weidenfeller,6.0
-2013-2014,R16,ruZen,Italy,12.0,4.0,5.0,3.0,23.0,17.0,6.0,17.0,17542.0,Hulk,Yuri Lodygin,4.0
+2013-2014,R16,Zenit,Russia,12.0,4.0,5.0,3.0,23.0,17.0,6.0,17.0,17542.0,Hulk,Yuri Lodygin,4.0
 2013-2014,R16,Arsenal,England,10.0,5.0,2.0,3.0,14.0,8.0,6.0,17.0,59864.0,"Olivier Giroud,Jack Wilshere... ",Wojciech Szczęsny,2.0
 2013-2014,R16,Manchester City,England,8.0,5.0,0.0,3.0,19.0,14.0,5.0,15.0,43372.0,Sergio Agüero,Joe Hart,6.0
 2013-2014,R16,Schalke 04,Germany,10.0,4.0,2.0,4.0,12.0,18.0,-6.0,14.0,53973.0,Julian Draxler,"Ralf Fährmann,Timo Hildebrand",3.0
@@ -359,7 +359,7 @@ Season,Rk,Squad,Country,MP,W,D,L,GF,GA,GD,Pts,Attendance,Top Team Scorer,Goalkee
 2012-2013,GR,Chelsea,England,6.0,3.0,1.0,2.0,16.0,10.0,6.0,10.0,40689.0,Oscar,Petr Čech,5.0
 2012-2013,GR,Olympiacos,Greece,6.0,3.0,0.0,3.0,9.0,9.0,0.0,9.0,29089.0,Kostas Mitroglou,Roy Carroll,4.0
 2012-2013,GR,Benfica,Portugal,6.0,2.0,2.0,2.0,5.0,5.0,0.0,8.0,49120.0,Óscar Cardozo,Artur Moraes,2.0
-2012-2013,GR,ruZen,Italy,6.0,2.0,1.0,3.0,6.0,9.0,-3.0,7.0,19361.0,Danny,Vyacheslav Malafeev,2.0
+2012-2013,GR,Zenit,Russia,6.0,2.0,1.0,3.0,6.0,9.0,-3.0,7.0,19361.0,Danny,Vyacheslav Malafeev,2.0
 2012-2013,GR,Spartak Moscow,Russia,8.0,2.0,1.0,5.0,10.0,16.0,-6.0,7.0,50637.0,Emmanuel Emenike,"Andriy Dykan,Sergei Pesyakov...",2.0
 2012-2013,GR,Braga,Portugal,8.0,1.0,2.0,5.0,9.0,15.0,-6.0,5.0,11758.0,Alan,Beto,5.0
 2012-2013,GR,Ajax,The Netherlands,6.0,1.0,1.0,4.0,8.0,16.0,-8.0,4.0,47578.0,Siem de Jong,Kenneth Vermeer,3.0
@@ -379,7 +379,7 @@ Season,Rk,Squad,Country,MP,W,D,L,GF,GA,GD,Pts,Attendance,Top Team Scorer,Goalkee
 2011-2012,R16,Lyon,France,10.0,4.0,3.0,3.0,14.0,10.0,4.0,15.0,35403.0,Bafétimbi Gomis,Hugo Lloris,5.0
 2011-2012,R16,Napoli,Italy,8.0,4.0,2.0,2.0,14.0,11.0,3.0,14.0,54223.0,Edinson Cavani,Morgan De Sanctis,5.0
 2011-2012,R16,Basel,Switzerland,8.0,4.0,2.0,2.0,12.0,17.0,-5.0,14.0,34489.0,Alexander Frei,Yann Sommer,5.0
-2011-2012,R16,ruZen,Italy,8.0,3.0,3.0,2.0,10.0,9.0,1.0,12.0,20628.0,Roman Shirokov,Vyacheslav Malafeev,5.0
+2011-2012,R16,Zenit,Russia,8.0,3.0,3.0,2.0,10.0,9.0,1.0,12.0,20628.0,Roman Shirokov,Vyacheslav Malafeev,5.0
 2011-2012,R16,Inter,Italy,8.0,3.0,2.0,3.0,10.0,9.0,1.0,11.0,33668.0,Giampaolo Pazzini,Júlio César,3.0
 2011-2012,R16,Leverkusen,Germany,8.0,3.0,1.0,4.0,10.0,18.0,-8.0,10.0,27555.0,Eren Derdiyok,Bernd Leno,2.0
 2011-2012,R16,CSKA Moscow,Russia,8.0,2.0,3.0,3.0,11.0,13.0,-2.0,9.0,35525.0,Seydou Doumbia,Vladimir Gabulov,5.0
@@ -490,7 +490,7 @@ Season,Rk,Squad,Country,MP,W,D,L,GF,GA,GD,Pts,Attendance,Top Team Scorer,Goalkee
 2008-2009,GR,Werr Bremen,Germany,6.0,1.0,4.0,1.0,7.0,9.0,-2.0,7.0,39322.0,"Hugo Almeida,Claudio Pizarro",Tim Wiese,2.0
 2008-2009,GR,Bordeaux,France,6.0,2.0,1.0,3.0,5.0,11.0,-6.0,7.0,28435.0,Yoann Gourcuff,"Ulrich Ramé,Mathieu Valverde",2.0
 2008-2009,GR,Celtic,Scotland,6.0,1.0,2.0,3.0,4.0,7.0,-3.0,5.0,58146.0,"Shaun Maloney,Scott McDonald... ",Artur Boruc,1.0
-2008-2009,GR,ruZen,Italy,6.0,1.0,2.0,3.0,4.0,7.0,-3.0,5.0,20333.0,Danny,Vyacheslav Malafeev,2.0
+2008-2009,GR,Zenit,Russia,6.0,1.0,2.0,3.0,4.0,7.0,-3.0,5.0,20333.0,Danny,Vyacheslav Malafeev,2.0
 2008-2009,GR,Steaua,Romania,8.0,1.0,2.0,5.0,6.0,14.0,-8.0,5.0,19262.0,"Arthuro,Dorin Goian... ",Róbinson Zapata,1.0
 2008-2009,GR,CFR Cluj,Romania,6.0,1.0,1.0,4.0,5.0,9.0,-4.0,4.0,20833.0,"Yssouf Koné,Emmanuel Culio",Eduard Stăncioiu,2.0
 2008-2009,GR,PSV Eindhoven,The Netherlands,6.0,1.0,0.0,5.0,5.0,14.0,-9.0,3.0,31000.0,Danny Koevermans,Andreas Isaksson,4.0
