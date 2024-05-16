@@ -52,8 +52,8 @@ Al igual que en la carpeta `analisis`, para ejecutar cualquier archivo de esta c
 
 De todos los modelos que hemos desarrollado y evaluado en este repositorio, los que presentan un mejor rendimiento son el modelo SVC con una precisión del 62,3% y el modelo de regresión logística con un 60,49%. Veamos las predicciones que nos dan estos dos modelos:
 
-![SVC](https://github.com/lauralardies/uefa_analisis/blob/main/UEFA/img/clasificaciones/LR_SVC.jpg?raw=true)
+![SVC](https://github.com/lauralardies/uefa_analisis/blob/main/UEFA/img/clasificaciones/LR_SVC.png?raw=true)
 
-![LR](https://github.com/lauralardies/uefa_analisis/blob/main/UEFA/img/clasificaciones/LR_SVC.jpg?raw=true)
+![LR](https://github.com/lauralardies/uefa_analisis/blob/main/UEFA/img/clasificaciones/LR_SVC.png?raw=true)
 
 Observamos que ambos modelos predicen el mismo resultado final: Real Madrid como ganador de la UEFA Champions League. Como conclusión de nestro análisis, podemos decir que el ganador de esta temporada será el Real Madrid.
