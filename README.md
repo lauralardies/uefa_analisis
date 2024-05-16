@@ -47,3 +47,13 @@ Para ejecutar los archivos de la carpeta `analisis` simplemente le das al botón
 ### Modelos
 
 Al igual que en la carpeta `analisis`, para ejecutar cualquier archivo de esta carpeta simplemente le das al botón de ejecutar de la celda que quieras. Hay que tener en cuenta que puede pasar que al ejecutar una celda salga un mensaje de error por no haber ejecutado una celda anterior a ella.
+
+### Resultados
+
+De todos los modelos que hemos desarrollado y evaluado en este repositorio, los que presentan un mejor rendimiento son el modelo SVC con una precisión del 62,3% y el modelo de regresión logística con un 60,49%. Veamos las predicciones que nos dan estos dos modelos:
+
+![SVC](https://github.com/lauralardies/uefa_analisis/blob/main/UEFA/img/clasificaciones/LR, SVC.jpg?raw=true)
+
+![LR](https://github.com/lauralardies/uefa_analisis/blob/main/UEFA/img/clasificaciones/LR, SVC.jpg?raw=true)
+
+Observamos que ambos modelos predicen el mismo resultado final: Real Madrid como ganador de la UEFA Champions League. Como conclusión de nestro análisis, podemos decir que el ganador de esta temporada será el Real Madrid.
